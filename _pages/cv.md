@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 NULL
+
 <!-- 
 {% include base_path %}
 
