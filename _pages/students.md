@@ -2,7 +2,7 @@
 layout: single
 title: "团队成员 (Group Members)"
 permalink: /students/
-author_profile: true
+author_profile: false
 ---
 
 ## 硕士研究生 (Master Students)

@@ -9,16 +9,15 @@
 
 main:
   - title: "Home"
-    url: /
+    url: /en/
 
   - title: "Publications"
-    url: /publications/
-
+    url: /en/publications/
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /en/teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -26,10 +25,10 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
   - title: "Students" 
-    url: /students/ 
+    url: /en/students/ 
     
   - title: "CV"
-    url: /cv/
+    url: /en/cv/
 
 
   # - title: "CV"

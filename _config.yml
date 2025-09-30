@@ -13,7 +13,7 @@ title                    : "Li Yinghong"
 title_separator          : "-"
 name                     : &name "Li Yinghong"
 description              : &description "李映红，博士，副教授，硕士生导师。主要从事人工智能与药物发现、生物标志物发现、生物医药数据库构建等研究工作。"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://lyhbio.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://lab.lyhbio.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lyhbio/lyhbio.github.io"
@@ -26,6 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Li Yinghong"
   pronouns         : # example: "she/her"  
+  bio_en           : "Li Yinghong, Ph.D., Associate Professor, Master's Supervisor, Deputy Director of the Department of Bioinformatics at the School of Bioinformatics, Chongqing University of Posts and Telecommunications, and Executive Director of the Chongqing Society for Bioinformatics."
   bio              : "李映红，博士，副教授，硕士生导师，重庆邮电大学生物信息学院生物信息学系副主任，重庆市生物信息学会常务理事。"
   location         : "Chongqing"
   employer         : "Chongqing University of Posts<wbr> and Telecommunications"
@@ -231,7 +232,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  teaching_cn:
+    output: true
+    permalink: /teaching/:path/  # 中文课程的访问路径
+  teaching_en:
+    output: true
+    permalink: /en/teaching/:path/ # 英文课程的访问路径
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -241,7 +247,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -252,14 +258,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -268,7 +274,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -277,7 +283,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
@@ -286,7 +292,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 

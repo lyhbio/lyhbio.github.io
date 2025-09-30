@@ -5,6 +5,7 @@ category: 'journal-articles'
 permalink: /publication/2025-03-21-AMVL-drug-repurposing
 excerpt: 'This study introduces adaptive multi-view learning (AMVL), a novel methodology that integrates chemical-induced transcriptional profiles, knowledge graph embeddings, and large language model representations to enhance drug repurposing predictions.'
 date: 2025-03-21
+lang: en
 venue: 'Journal of Pharmaceutical Analysis'
 paperurl: 'https://doi.org/10.1016/j.jpha.2025.101275'
 citation: 'Yan, Y., Yang, Y., Tong, Z., Wang, Y., Yang, F., Pan, Z., Liu, C., Bai, M., Xie, Y., Li, Y., Shu, K., & Li, Y. (2025). &quot;Adaptive multi-view learning method for enhanced drug repurposing using chemical-induced transcriptional profiles, knowledge graphs, and large language models.&quot; <i>Journal of Pharmaceutical Analysis</i>, 15(6), 101275.'

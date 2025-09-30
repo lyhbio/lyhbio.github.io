@@ -1,0 +1,58 @@
+---
+layout: default
+---
+{% assign current_lang = 'en' %}
+{% if page.url contains '/cn/' or page.url contains '/zh/' %}
+  {% assign current_lang = 'cn' %}
+{% endif %}
+<div id="main" role="main">
+  <div class="archive">
+    <h1 class="page__title">{{ page.title }}</h1>
+    
+    <div class="entries-list">
+      {% for post in site.publications reversed %}
+        {% if post.lang == current_lang %}
+        
+          <div class="list__item" style="padding: 1.5em 0; border-bottom: 1px solid #e8e8e8;">
+            
+            <!-- 论文标题 (可点击) -->
+            <h2 class="archive__item-title" style="margin-bottom: 0.5rem;">
+              <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+            </h2>
+            
+            <!-- 作者、期刊和年份信息 (从 citation 字段自动提取) -->
+            {% assign citation_parts = post.citation | split: '&quot;' %}
+            {% assign authors_year_and_journal = citation_parts[0] | append: citation_parts[2] %}
+            
+            <!-- 作者列表 (普通文本) -->
+            {% assign authors_and_year = authors_year_and_journal | split: '. ' %}
+            {% assign authors = "" %}
+            {% for part in authors_and_year %}
+              {% if forloop.last %}
+                <!-- The last part is the journal and year, skip it -->
+              {% else %}
+                {% assign authors = authors | append: part | append: '. ' %}
+              {% endif %}
+            {% endfor %}
+
+            <p class="archive__item-excerpt" style="margin-bottom: 0.5rem; font-size: 0.9em;">
+              {{ authors | replace: 'Li, Y.', '<strong>Li, Y.</strong>' | replace: 'Li, Y. H.', '<strong>Li, Y. H.</strong>' }}
+            </p>
+
+            <p class="page__meta" style="margin: 0; font-style: italic;">
+              {{ post.venue }}, {{ post.date | date: "%Y" }}
+              
+              {% if post.paperurl %}
+                <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
+                </a>
+              {% endif %}
+            </p>
+            
+          </div>
+          
+        {% endif %}
+      {% endfor %}
+    </div>
+    
+  </div>
+</div>
