@@ -8,6 +8,8 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 @import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&family=Noto+Serif+SC:wght@200..900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -87,28 +89,7 @@
 // --------
 /* --- 多款自定义分区标题样式 --- */
 
-/* 风格一: 现代下划线样式 */
-.header-underline {
-  margin: 3em 0 1.5em;
-  padding-bottom: 0.5em;
-  border-bottom: 1px solid #eee;
-  position: relative;
-}
-.header-underline h2 {
-  margin: 0;
-  font-size: 2em;
-  color: #222;
-}
-/* 关键的装饰性“重音”下划线 */
-.header-underline::after {
-  content: '';
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-  width: 80px;  /* 短线条的长度 */
-  height: 3px;   /* 短线条的粗细 */
-  background-color: #007bff; /* 短线条的颜色 (蓝色) */
-}
+
 
 
 /* 风格二: 左侧边框重音样式 */
@@ -116,6 +97,8 @@
   margin: 3em 0 1.5em;
   padding-left: 1.2em;
   border-left: 5px solid #47a9ff; /* 左侧边框的颜色 (番茄红) */
+  font-family: "PT Serif", "Noto Sans SC", sans-serif;
+
 }
 .header-accent-left h3 {
   margin: 0;
@@ -131,63 +114,11 @@
 }
 
 
-/* 风格三: 渐变背景带样式 */
-.header-gradient-band {
-  margin: 3em 0 1.5em;
-  padding: 1.2em 1.5em;
-  border-radius: 8px; /* 圆角 */
-  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%); /* 渐变色 */
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-}
-.header-gradient-band h2 {
-  margin: 0;
-  color: #fff; /* 白色文字 */
-  font-size: 2em;
-}
-
-
-/* 风格四: 居中标签/徽章样式 */
-.header-badge-wrapper {
-  text-align: center; /* 让内部的徽章居中 */
-  margin: 3em 0 1.5em;
-}
-.header-badge {
-  display: inline-block; /* 关键属性，让块级元素可以居中 */
-  padding: 0.6em 1.8em;
-  font-size: 1.5em;
-  font-weight: bold;
-  color: #1d3557; /* 字体颜色 */
-  background-color: #f1faee; /* 背景色 (淡绿色) */
-  border: 1px solid #a8dadc; /* 边框颜色 (淡蓝色) */
-  border-radius: 50px; /* 胶囊形状 */
-}
-
 #main h1,
 #main h2,
 #main h3,
 #main h4,
 #main h5 {
-  font-family: "Noto Sans SC", sans-serif;
+  font-family: "PT Serif", "Noto Sans SC", sans-serif;
 }
 
-//---
-/* --- 自定义 Header 和 Hero 区域样式 (使用固定颜色) --- */
-
-/* 1. 全新的 Header (Masthead) 样式 */
-.site-title {
-  color: #222222; /* 固定为深灰色文字 */
-}
-.greedy-nav a {
-  color: #777777; /* 固定为中灰色文字 */
-}
-.greedy-nav a:hover {
-  color: #007bff; /* 固定为蓝色悬停效果 */
-}
-
-.md-list-icon {
-  display: inline-block; /* 确保图标有自己的空间 */
-  width: 1.5em; /* 固定宽度，让后面的文字对齐 */
-  text-align: center; /* 图标居中 */
-  color: #47a9ff; /* 图标的颜色 */
-  margin-right: 0.2em; /* 图标和文字之间的轻微间距 */
-}
