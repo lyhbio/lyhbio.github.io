@@ -29,9 +29,9 @@ title: "课题组介绍"
   <p>Research Interests</p>
 </div>
 
-*   <p class="fas fa-magic md-list-icon"></p> **人工智能与药物发现**
-*   <p class="fas fa-database md-list-icon"></p> **生物医药数据库构建**
-*   <p class="fas fa-sitemap md-list-icon"></p> **单细胞多组学分析**
+*   <i class="fas fa-magic md-list-icon"></i> **人工智能与药物发现**
+*   <i class="fas fa-database md-list-icon"></i> **生物医药数据库构建**
+*   <i class="fas fa-sitemap md-list-icon"></i> **单细胞多组学分析**
 
 <div class="header-accent-left">
   <h2>科研项目</h2>

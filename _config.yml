@@ -29,7 +29,8 @@ author:
   bio_en           : "Li Yinghong, Ph.D., Associate Professor, Master's Supervisor, Deputy Director of the Department of Bioinformatics at the School of Bioinformatics, Chongqing University of Posts and Telecommunications, and Executive Director of the Chongqing Society for Bioinformatics."
   bio              : "李映红，博士，副教授，硕士生导师，重庆邮电大学生物信息学院生物信息学系副主任，重庆市生物信息学会常务理事。"
   location         : "Chongqing"
-  employer         : "Chongqing University of Posts<wbr> and Telecommunications"
+  employer         : "重庆邮电大学生物信息<wbr>学院1号楼402"
+  employer_en      : "Room 402, Building 1, <wbr>School of Bioinformatics, CQUPT"
   uri              : # URL
   email            : "liyinghong@cqupt.edu.cn" 
 
