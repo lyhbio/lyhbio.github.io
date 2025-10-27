@@ -1,0 +1,17 @@
+/* --- TYPOGRAPHY --- */
+
+/* system typefaces */
+// $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+//   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+// $serif: "Georgia", "Times", "Times New Roman", serif !default;
+
+/* sans-serif typeface */
+$global-font-family: "Ma Shan Zheng", $sans-serif;
+
+/* serif typeface */
+// 标题也使用这个字体
+$header-font-family: "Ma Shan Zheng", $sans-serif;
+
+/* monospace typeface */
+$monospace: "Menlo", "Consolas", "Roboto Mono", "Liberation Mono",
+  "Courier New", monospace !default;

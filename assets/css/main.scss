@@ -7,6 +7,7 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@100..900&display=swap');
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -41,3 +42,152 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* -- 自定义团队网格样式 -- */
+.team-grid {
+  display: grid;
+  /* 自动填充，每列最小200px，自动适应屏幕宽度 */
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 30px; /* 图片之间的间距 */
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.team-member {
+  text-align: center; /* 文字居中 */
+}
+
+.team-member img {
+  width: 160px;  /* 头像宽度，可根据喜好调整 */
+  height: 160px; /* 高度必须和宽度一致，才能成为正圆 */
+  border-radius: 50%; /* 这行代码是实现圆形的魔法 */
+  object-fit: cover; /* 防止图片被拉伸变形 */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* 加一点阴影，让头像有立体感 */
+  transition: transform 0.2s ease-in-out; /* 添加一个平滑的过渡效果 */
+}
+
+.team-member img:hover {
+  transform: scale(1.05); /* 鼠标悬停时，图片轻微放大 */
+}
+
+.team-member-name {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  font-size: 1.1em;
+  font-weight: bold; /* 名字加粗 */
+}
+
+.team-member-details {
+  font-size: 0.9em;
+  color: #666; /* 详情文字颜色稍浅 */
+  line-height: 1.4;
+}
+
+// --------
+/* --- 多款自定义分区标题样式 --- */
+
+/* 风格一: 现代下划线样式 */
+.header-underline {
+  margin: 3em 0 1.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #eee;
+  position: relative;
+}
+.header-underline h2 {
+  margin: 0;
+  font-size: 2em;
+  color: #222;
+}
+/* 关键的装饰性“重音”下划线 */
+.header-underline::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 80px;  /* 短线条的长度 */
+  height: 3px;   /* 短线条的粗细 */
+  background-color: #007bff; /* 短线条的颜色 (蓝色) */
+}
+
+
+/* 风格二: 左侧边框重音样式 */
+.header-accent-left {
+  margin: 3em 0 1.5em;
+  padding-left: 1.2em;
+  border-left: 5px solid #47a9ff; /* 左侧边框的颜色 (番茄红) */
+}
+.header-accent-left h3 {
+  margin: 0;
+  font-size: 2.2em;
+  // color: #333;
+}
+.header-accent-left p {
+  margin: 0.3em 0 0;
+  font-size: 1.1em;
+  // color: #777;
+  opacity: 0.8;
+  font-style: italic;
+}
+
+
+/* 风格三: 渐变背景带样式 */
+.header-gradient-band {
+  margin: 3em 0 1.5em;
+  padding: 1.2em 1.5em;
+  border-radius: 8px; /* 圆角 */
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%); /* 渐变色 */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+.header-gradient-band h2 {
+  margin: 0;
+  color: #fff; /* 白色文字 */
+  font-size: 2em;
+}
+
+
+/* 风格四: 居中标签/徽章样式 */
+.header-badge-wrapper {
+  text-align: center; /* 让内部的徽章居中 */
+  margin: 3em 0 1.5em;
+}
+.header-badge {
+  display: inline-block; /* 关键属性，让块级元素可以居中 */
+  padding: 0.6em 1.8em;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #1d3557; /* 字体颜色 */
+  background-color: #f1faee; /* 背景色 (淡绿色) */
+  border: 1px solid #a8dadc; /* 边框颜色 (淡蓝色) */
+  border-radius: 50px; /* 胶囊形状 */
+}
+
+#main h1,
+#main h2,
+#main h3,
+#main h4,
+#main h5 {
+  font-family: "Noto Sans SC", sans-serif;
+}
+
+//---
+/* --- 自定义 Header 和 Hero 区域样式 (使用固定颜色) --- */
+
+/* 1. 全新的 Header (Masthead) 样式 */
+.site-title {
+  color: #222222; /* 固定为深灰色文字 */
+}
+.greedy-nav a {
+  color: #777777; /* 固定为中灰色文字 */
+}
+.greedy-nav a:hover {
+  color: #007bff; /* 固定为蓝色悬停效果 */
+}
+
+.md-list-icon {
+  display: inline-block; /* 确保图标有自己的空间 */
+  width: 1.5em; /* 固定宽度，让后面的文字对齐 */
+  text-align: center; /* 图标居中 */
+  color: #47a9ff; /* 图标的颜色 */
+  margin-right: 0.2em; /* 图标和文字之间的轻微间距 */
+}

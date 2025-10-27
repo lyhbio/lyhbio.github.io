@@ -24,11 +24,11 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-  - title: "Students" 
-    url: /en/students/ 
+  # - title: "Students" 
+  #   url: /en/students/ 
     
-  - title: "CV"
-    url: /en/cv/
+  # - title: "CV"
+  #   url: /en/cv/
 
 
   # - title: "CV"
