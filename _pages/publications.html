@@ -2,36 +2,39 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
-layout: publication-list
+author_profile: false
+
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+{% comment %}
+  1. 获取所有出版物.
+  2. 使用 'group_by_exp' 过滤器按年份分组.
+     - 'item.date | date: "%Y"' 会提取出每个出版物日期的年份部分.
+{% endcomment %}
+{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
 
-{% include base_path %}
+{% assign publications_by_year = sorted_publications | group_by_exp: "item", "item.date | date: '%Y'" %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications_cn reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications_cn reversed %}
+{% comment %}
+  现在我们有了一个按年份分组的列表，开始循环遍历每一年.
+{% endcomment %}
+{% for year_group in publications_by_year %}
+
+  {% comment %}
+    以 H2 标题的形式显示年份. year_group.name 就是我们分组依据的值 (例如 "2025").
+  {% endcomment %}
+  <h2 id="{{ year_group.name }}" class="archive__subtitle">{{ year_group.name }}</h2>
+
+  {% comment %}
+    在当前年份的分组下，循环遍历该年份的所有出版物.
+    'year_group.items' 是一个包含了该年份所有出版物对象的列表.
+  {% endcomment %}
+  {% for post in year_group.items %}
+    {% comment %}
+      使用模板默认的 'archive-single.html' 来显示每一篇出版物的摘要.
+      这个 include 文件会读取 post 的各种属性 (title, excerpt, paperurl 等).
+    {% endcomment %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
 
-
-
+{% endfor %}

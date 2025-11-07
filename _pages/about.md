@@ -93,10 +93,37 @@ title: "课题组介绍"
   <p>Work Experience</p>
 </div>
 
-1.  **2018.12 - 至今**: 重庆邮电大学 | 生物信息学院 | 专任教师
-2.  **2018.7 - 2018.12**: 重庆医科大学附属第一医院 | 眼科 | 科研助理（GWAS相关研究）
-3.  **2011.8 - 2013.6**: 北京贝瑞和康生物技术有限公司 | 生物信息部 | 生物信息分析师（主要从事重测序和转录组相关分析）
+<!-- 工作经历标题 -->
+<div class="header-accent-left">
+  <h2>工作经历</h2>
+  <p>Work Experience</p>
+</div>
 
+<!-- 工作经历列表容器 -->
+<div class="work-experience-list">
+
+  <!-- 第一个工作项 -->
+  <div class="work-item">
+    <div class="work-col date-employer"><strong>2018.12 - 至今:</strong> 重庆邮电大学</div>
+    <div class="work-col department">生物信息学院</div>
+    <div class="work-col role">专任教师</div>
+  </div>
+
+  <!-- 第二个工作项 -->
+  <div class="work-item">
+    <div class="work-col date-employer"><strong>2018.7 - 2018.12:</strong> 重庆医科大学附属第一医院</div>
+    <div class="work-col department">眼科</div>
+    <div class="work-col role">科研助理（GWAS相关研究）</div>
+  </div>
+
+  <!-- 第三个工作项 -->
+  <div class="work-item">
+    <div class="work-col date-employer"><strong>2011.8 - 2013.6:</strong> 北京贝瑞和康生物技术有限公司</div>
+    <div class="work-col department">生物信息部</div>
+    <div class="work-col role">生物信息分析师（主要从事重测序和转录组相关分析）</div>
+  </div>
+
+</div>
 <div class="header-accent-left">
   <h2>加入我们！</h2>
   <p>Join Us!</p>

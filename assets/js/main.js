@@ -1,6 +1,7 @@
 /* ==========================================================================
    Various functions that we want to use within the template
    ========================================================================== */
+console.log("main.js 文件已成功加载并开始执行！");
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
 // "system". Default is "system".
@@ -21,9 +22,14 @@ let determineComputedTheme = () => {
 
 // detect OS/browser preference
 const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-
 // Set the theme on page load or when explicitly called
 let setTheme = (theme) => {
+  const document_text = document.getElementById('theme-text')
+    if (!document_text) {
+      console.log('not find element')
+    return;
+  }
+  console.log('find element')
   const use_theme =
     theme ||
     localStorage.getItem("theme") ||
@@ -31,9 +37,12 @@ let setTheme = (theme) => {
     browserPref;
 
   if (use_theme === "dark") {
+    document_text.textContent = 'Dark'
     $("html").attr("data-theme", "dark");
     $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
+
   } else if (use_theme === "light") {
+    document_text.textContent = 'Light'
     $("html").removeAttr("data-theme");
     $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
   }

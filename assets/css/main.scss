@@ -122,3 +122,48 @@
   font-family: "PT Serif", "Noto Sans SC", sans-serif;
 }
 
+/* -- 自定义工作经历样式 -- */
+.work-experience-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 2em; /* 与标题的间距 */
+  counter-reset: work-counter; /* 初始化 CSS 计数器 */
+}
+
+.work-item {
+  display: flex; /* 启用 Flexbox 布局 */
+  border: 1px solid #666; /* 边框颜色，可以根据您的主题调整 */
+  margin-bottom: 1rem; /* 每个工作项之间的间距 */
+  counter-increment: work-counter; /* 每个项目计数器+1 */
+  align-items: stretch; /* 让所有列等高 */
+  background-color: #404040; /* 背景色，可以根据您的主题调整 */
+}
+
+/* 使用 ::before 伪元素来自动生成数字 */
+.work-item::before {
+  content: counter(work-counter) "."; /* 显示 "1.", "2." 等 */
+  font-weight: bold;
+  padding: 0.75em 1em;
+  display: flex;
+  align-items: center; /* 让数字垂直居中 */
+  color: #f0f0f0;
+}
+
+.work-col {
+  padding: 0.75em 1em;
+  border-left: 1px solid #666; /* 列之间的垂直分割线 */
+  display: flex;
+  align-items: center;
+  color: #f0f0f0; /* 字体颜色 */
+}
+
+/* 通过 flex 属性调整每一列的宽度比例 */
+.work-col.date-employer {
+  flex: 3; /* 占据3份空间 */
+}
+.work-col.department {
+  flex: 1.5; /* 占据1.5份空间 */
+}
+.work-col.role {
+  flex: 3; /* 占据3份空间 */
+}
