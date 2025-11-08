@@ -16,10 +16,17 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
+  - title: "资源"
+    url: /resources/
+
+  - title: "项目"
+    url: /projects/
 
   - title: "教学"
     url: /teaching/    
     
+  - title: "News"
+    url: /news/
   # - title: "Portfolio"
   #   url: /portfolio/
         

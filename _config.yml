@@ -233,12 +233,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  teaching_cn:
-    output: true
-    permalink: /teaching/:path/  # 中文课程的访问路径
-  teaching_en:
-    output: true
-    permalink: /en/teaching/:path/ # 英文课程的访问路径
+  # teaching_cn:
+  #   output: true
+  #   permalink: /teaching/:path/  # 中文课程的访问路径
+  # teaching_en:
+  #   output: true
+  #   permalink: /en/teaching/:path/ # 英文课程的访问路径
 
 # These settings control how pages and collections are included in the site
 defaults:

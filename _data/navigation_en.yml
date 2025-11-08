@@ -13,12 +13,22 @@ main:
 
   - title: "Publications"
     url: /en/publications/
+
   # - title: "Talks"
   #   url: /talks/    
+
+  - title: "Resources"
+    url: /en/resources/
+
+  - title: "Projects"
+    url: /en/Projects/
+
 
   - title: "Teaching"
     url: /en/teaching/    
     
+  - title: "News"
+    url: /en/news/
   # - title: "Portfolio"
   #   url: /portfolio/
         

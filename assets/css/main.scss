@@ -167,3 +167,182 @@
 .work-col.role {
   flex: 3; /* 占据3份空间 */
 }
+
+
+  /* Define colors and shadows as CSS variables for easy theming */
+  :root {
+    --card-bg-light: #ffffff;
+    --card-border-light: #e0e0e0;
+    --card-shadow-light: rgba(0, 0, 0, 0.08);
+    --card-hover-shadow-light: rgba(0, 0, 0, 0.15);
+    
+    --card-bg-dark: #2c2c2c;
+    --card-border-dark: #444444;
+    --card-shadow-dark: rgba(0, 0, 0, 0.2);
+    --card-hover-shadow-dark: rgba(255, 255, 255, 0.15);
+
+    /* Use theme's primary color for links, if available */
+    --card-link-color: var(--primary-color, #007bff);
+    --text-color-normal: var(--text-color, #222);
+    --text-color-dark: var(--text-color, #eaeaea);
+  }
+
+  .resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 1.5rem;
+    padding-top: 1rem;
+  }
+
+  .item-card {
+    
+    background: var(--card-bg-light);
+    border: 1px solid var(--card-border-light);
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    box-shadow: 0 4px 8px var(--card-shadow-light);
+    position: relative; /* Crucial for the stretched link */
+  }
+
+  .item-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px var(--card-hover-shadow-light);
+  }
+  
+  /* Stretched link to make the whole card clickable */
+  .item-card .card-link-overlay::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+
+  .item-card-image {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+  }
+
+  .item-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-bottom: 1px solid var(--card-border-light);
+  }
+  
+  .item-card-content {
+    padding: 1.25rem;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    color: var(--text-color-normal);
+  }
+  
+  .item-card-content h3 {
+    margin-top: 0;
+    font-size: 1.2em;
+  }
+  
+  .item-card-content h3 a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .item-card-content p {
+    flex-grow: 1;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+  }
+  
+  .item-card-publication a {
+    font-size: 0.9em;
+    font-weight: 500;
+    color: var(--card-link-color);
+    text-decoration: none;
+    position: relative; /* Ensures this link is clickable */
+    z-index: 2; /* Place it above the overlay */
+  }
+  .item-card-publication a:hover {
+    text-decoration: underline;
+  }
+
+  /* Dark mode compatibility */
+html[data-theme="dark"] .item-card {
+  background: var(--card-bg-dark);
+  border-color: var(--card-border-dark);
+  box-shadow: 0 4px 8px var(--card-shadow-dark);
+}
+
+html[data-theme="dark"] .item-card:hover {
+  box-shadow: 0 8px 16px var(--card-hover-shadow-dark);
+}
+
+html[data-theme="dark"] .item-card-image img {
+  border-bottom-color: var(--card-border-dark);
+}
+
+html[data-theme="dark"] .item-card-content {
+  color: var(--text-color-dark);
+}
+
+.item-card-image {
+  position: relative;
+  /* The next line prevents image distortion on some browsers */
+  background-color: #f0f0f0; 
+}
+
+/* Create a pseudo-element to act as the overlay */
+.item-card-image::after {
+  content: ''; /* Pseudo-elements must have a content property */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  /* The overlay color: semi-transparent black */
+  background-color: rgba(0, 0, 0, 0.3); /* 50% black. Adjust 0.5 to make it darker or lighter. */
+  
+  /* By default, the overlay is invisible */
+  opacity: 0;
+  
+  /* Add a smooth transition for the fade effect */
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* When in dark mode, make the overlay visible */
+html[data-theme="dark"] .item-card-image::after {
+  opacity: 1;
+}
+
+/* Optional: Slightly reduce image brightness directly as well */
+html[data-theme="dark"] .item-card-image img {
+  filter: brightness(0.90);
+  transition: filter 0.3s ease-in-out;
+}
+
+// 在 _sass/_custom-cards.scss 文件末尾添加
+
+.card-footer {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--card-border-light);
+  font-size: 0.85em;
+  color: #666;
+}
+
+html[data-theme="dark"] .card-footer {
+  border-top-color: var(--card-border-dark);
+  color: #aaa;
+}
+
+
+#theme-toggle {
+  margin-left: 40px;
+}

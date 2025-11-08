@@ -1,7 +1,7 @@
 /* ==========================================================================
    Various functions that we want to use within the template
    ========================================================================== */
-console.log("main.js 文件已成功加载并开始执行！");
+// console.log("main.js 文件已成功加载并开始执行！");
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
 // "system". Default is "system".
