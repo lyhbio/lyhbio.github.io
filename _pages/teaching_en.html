@@ -3,10 +3,52 @@ layout: archive
 title: "Teaching"
 permalink: /en/teaching/
 author_profile: false
+classes: wide
+
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching_en reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="card-grid">
+
+  <!-- Project 1 -->
+  <div class="item-card" style='margin-bottom: 20px;'>
+    <div class="item-card-image" style='height: 100%'>
+    <img style="max-height: 350px;" src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1974&auto=format&fit=crop" alt="Bioinformatics DNA">    </div>
+    <div class="item-card-content">
+    <h2>Introduction to Bioinformatics</h2>
+    <p>This course serves as a fundamental introduction to the field of bioinformatics. It is designed to help students build a comprehensive knowledge framework, laying a solid foundation for subsequent specialized courses and scientific research.</p>
+    
+    <h3>Core Topics</h3>
+    <ul>
+      <li><strong>Fundamental Concepts:</strong> Definition, history, and frontiers of bioinformatics.</li>
+      <li><strong>Biological Databases:</strong> Proficient use of core databases such as NCBI, Ensembl, and PDB.</li>
+      <li><strong>Sequence Alignment:</strong> Understanding and applying classic algorithms like BLAST and Smith-Waterman.</li>
+      <li><strong>Gene & Function:</strong> Methods and tools for gene prediction and functional annotation.</li>
+      <li><strong>Protein Analysis:</strong> Methods for predicting protein structure and function.</li>
+      <li><strong>Evolutionary Analysis:</strong> Fundamentals of phylogenetic analysis and molecular evolution.</li>
+    </ul>
+      </div>
+    </div>
+  </div>
+
+    <div class="item-card" style='margin-bottom: 20px;'>
+    <div class="item-card-image" style='height: 100%'>
+    <img src="/images/python.png" alt="Python Code">    </div>
+    <div class="item-card-content">
+    <h2>Advanced Python Programming</h2>
+    <p>This course is designed for students who already have a basic understanding of Python. It aims to comprehensively enhance their programming skills and efficiency in solving complex problems, preparing them to tackle the data-intensive challenges in the field of bioinformatics.</p>
+    
+    <h3>Core Topics</h3>
+    <ul>
+      <li><strong>Advanced Features:</strong> In-depth study of decorators, generators, and metaclasses.</li>
+      <li><strong>Object-Oriented Programming (OOP):</strong> Mastering advanced design patterns and applications.</li>
+      <li><strong>Concurrent Programming:</strong> Including multi-threading, multi-processing, and asynchronous I/O models.</li>
+      <li><strong>Scientific Computing:</strong> Advanced usage of libraries such as NumPy, Pandas, and Matplotlib.</li>
+      <li><strong>Performance Optimization:</strong> Techniques for code profiling, bottleneck identification, and performance tuning.</li>
+    </ul>
+      </div>
+    </div>
+  </div>
+
+</div>

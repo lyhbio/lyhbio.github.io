@@ -1,121 +1,119 @@
 ---
 layout: archive
 title: "Team"
-permalink: /team/
+permalink: /en/team/
 author_profile: True
 ---
 
-{% include base_path %}
-
 <!--
-说明：请将图片路径 /images/your-photo.jpg 替换为成员的真实照片路径。
-照片文件需要先上传到您网站仓库的 /images/ 文件夹下。
+Note: Please replace the image path /images/your-photo.jpg with the actual photo path of the member.
+The photo file needs to be uploaded to the /images/ folder in your website repository first.
 -->
 
 ## Principal Investigator
 ---
-*   **李映红 (Yinghong Li)**, 硕士导师
+*   **Yinghong Li**, Master's Supervisor
 
 <br/>
 
-## 研究生 (Graduate Students)
+## Graduate Students
 ---
 
-### 在读硕士生 (Master Students)
+### Master Students
 
 <div class="grid__wrapper">
   <div class="grid__item team-member-card">
     <img src="/images/Yu_Wang.png" alt="Yu Wang" class="team-member-photo">
-    <h4 class="team-member-name">王宇 (Yu Wang)</h4>
-    <p class="team-member-description">2023级硕士 | 生物医学信息抽取</p>
+    <h4 class="team-member-name">Yu Wang</h4>
+    <p class="team-member-description">Class of 2023 | Biomedical Information Extraction</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Yudong_Yan.png" alt="Yudong Yan" class="team-member-photo">
-    <h4 class="team-member-name">颜钰东 (Yudong Yan)</h4>
-    <p class="team-member-description">2024级硕士 | 人工智能与药物发现</p>
-    <p class="team-member-description"><a href="https://github.com/lyhbio/AMVL">项目主页</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">发表论文</a></p>
+    <h4 class="team-member-name">Yudong Yan</h4>
+    <p class="team-member-description">Class of 2024 | AI for Drug Discovery</p>
+    <p class="team-member-description"><a href="https://github.com/lyhbio/AMVL">Project Homepage</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">Publication</a></p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Zupeng_Pan.png" alt="Zupeng Pan" class="team-member-photo">
-    <h4 class="team-member-name">潘祖鹏 (Zupeng Pan)</h4>
-    <p class="team-member-description">2024级硕士 | 异构网络与药物重定位</p>
+    <h4 class="team-member-name">Zupeng Pan</h4>
+    <p class="team-member-description">Class of 2024 | Heterogeneous Networks and Drug Repositioning</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Fan_Yang.png" alt="Fan Yang" class="team-member-photo">
-    <h4 class="team-member-name">杨帆 (Fan Yang)</h4>
-    <p class="team-member-description">2024级硕士 | 人工智能与知识图谱</p>
+    <h4 class="team-member-name">Fan Yang</h4>
+    <p class="team-member-description">Class of 2024 | AI and Knowledge Graphs</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Xuanhao_Huang.png" alt="Xuanhao Huang" class="team-member-photo">
-    <h4 class="team-member-name">黄轩浩 (Xuanhao Huang)</h4>
-    <p class="team-member-description">2024级硕士 | 单细胞组学分析</p>
+    <h4 class="team-member-name">Xuanhao Huang</h4>
+    <p class="team-member-description">Class of 2024 | Single-cell Omics Analysis</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Hongyin_Wang.png" alt="Hongyin Wang" class="team-member-photo">
-    <h4 class="team-member-name">王鸿印 (Hongyin Wang)</h4>
-    <p class="team-member-description">2025级硕士 | 人工智能与药物发现</p>
+    <h4 class="team-member-name">Hongyin Wang</h4>
+    <p class="team-member-description">Class of 2025 | AI for Drug Discovery</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Xiang_Qin.png" alt="Xiang Qin" class="team-member-photo">
-    <h4 class="team-member-name">秦祥 (Xiang Qin)</h4>
-    <p class="team-member-description">2025级硕士 | 单细胞组学分析</p>
+    <h4 class="team-member-name">Xiang Qin</h4>
+    <p class="team-member-description">Class of 2025 | Single-cell Omics Analysis</p>
   </div>
 </div>
 
 
-## 本科生 (Undergraduate Students)
+## Undergraduate Students
 ---
 
 <div class="grid__wrapper">
   <div class="grid__item team-member-card">
     <img src="/images/Jilong_Mu.png" alt="Jilong Mu" class="team-member-photo">
-    <h4 class="team-member-name">牟桔隆 (Jilong Mu)</h4>
-    <p class="team-member-description">药物-靶点亲和力预测</p>
+    <h4 class="team-member-name">Jilong Mu</h4>
+    <p class="team-member-description">Drug-Target Affinity Prediction</p>
   </div>
   <div class="grid__item team-member-card">
     <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
-    <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
+    <h4 class="team-member-name">Wenjun Wu</h4>
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Guoyao_Wang.png" alt="Guoyao Wang" class="team-member-photo">
-    <h4 class="team-member-name">王国尧 (Guoyao Wang)</h4>
+    <h4 class="team-member-name">Guoyao Wang</h4>
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Jiale_Rao.png" alt="Jiale Rao" class="team-member-photo">
-    <h4 class="team-member-name">饶佳乐 (Jiale Rao)</h4>
+    <h4 class="team-member-name">Jiale Rao</h4>
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Boren_Jiang.png" alt="Boren Jiang" class="team-member-photo">
-    <h4 class="team-member-name">姜博仁 (Boren Jiang)</h4>
+    <h4 class="team-member-name">Boren Jiang</h4>
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Yongkang_Li.png" alt="Yongkang Li" class="team-member-photo">
-    <h4 class="team-member-name">李永康 (Yongkang Li)</h4>
+    <h4 class="team-member-name">Yongkang Li</h4>
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Xiaoran_Wu.png" alt="Xiaoran Wu" class="team-member-photo">
-    <h4 class="team-member-name">吴笑然 (Xiaoran Wu)</h4>
+    <h4 class="team-member-name">Xiaoran Wu</h4>
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Sheng_Chen.png" alt="Sheng Chen" class="team-member-photo">
-    <h4 class="team-member-name">陈胜 (Sheng Chen)</h4>
+    <h4 class="team-member-name">Sheng Chen</h4>
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Chenghong_Huan.png" alt="Chenghong Huan" class="team-member-photo">
-    <h4 class="team-member-name">宦成洪 (Chenghong Huan)</h4>
+    <h4 class="team-member-name">Chenghong Huan</h4>
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Jiandong_Chen.png" alt="Jiandong Chen" class="team-member-photo">
-    <h4 class="team-member-name">陈建东 (Jiandong Chen)</h4>
+    <h4 class="team-member-name">Jiandong Chen</h4>
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Zhongcheng_Yang.png" alt="Zhongcheng Yang" class="team-member-photo">
-    <h4 class="team-member-name">杨中诚 (Zhongcheng Yang)</h4>
+    <h4 class="team-member-name">Zhongcheng Yang</h4>
   </div>
 </div>

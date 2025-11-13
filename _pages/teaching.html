@@ -1,12 +1,57 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching
+title: "教学"
+permalink: /teaching/
 author_profile: false
+classes: wide
+
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching_cn reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="card-grid">
+
+  <!-- 课程 1 -->
+  <div class="item-card" style='margin-bottom: 20px;'>
+    <div class="item-card-image" style='height: 100%'>
+    <img style="max-height: 350px;" src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1974&auto=format&fit=crop" alt="生物信息学DNA">
+    </div>
+    <div class="item-card-content">
+    <h2>生物信息学导论</h2>
+    <p>本课程是生物信息学领域的基石性导论，旨在帮助学生构建完整的知识框架，为后续的专业课程学习和科学研究打下坚实的基础。</p>
+    
+    <h3>核心内容</h3>
+    <ul>
+      <li><strong>基本概念：</strong> 生物信息学的定义、发展历史与前沿领域。</li>
+      <li><strong>生物数据库：</strong> 熟练使用NCBI、Ensembl、PDB等核心数据库。</li>
+      <li><strong>序列比对：</strong> 理解并应用BLAST、Smith-Waterman等经典比对算法。</li>
+      <li><strong>基因与功能：</strong> 基因预测和功能注释的方法与常用工具。</li>
+      <li><strong>蛋白质分析：</strong> 蛋白质结构与功能预测的方法。</li>
+      <li><strong>演化分析：</strong> 系统发育分析和分子进化的基础知识。</li>
+    </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- 课程 2 -->
+  <div class="item-card" style='margin-bottom: 20px;'>
+    <div class="item-card-image" style='height: 100%'>
+    <img src="/images/python.png" alt="Python代码">
+    </div>
+    <div class="item-card-content">
+    <h2>Python高级编程</h2>
+    <p>本课程专为已具备Python基础的学生设计，旨在全面提升其编程技巧和复杂问题解决效率，为应对生物信息学领域的数据密集型挑战做好准备。</p>
+    
+    <h3>核心内容</h3>
+    <ul>
+      <li><strong>高级特性：</strong> 深入学习装饰器(decorators)、生成器(generators)与元类(metaclasses)。</li>
+      <li><strong>面向对象编程 (OOP)：</strong> 掌握高级设计模式及其应用。</li>
+      <li><strong>并发编程：</strong> 包括多线程、多进程与异步I/O模型。</li>
+      <li><strong>科学计算：</strong> NumPy、Pandas、Matplotlib等核心库的高级应用技巧。</li>
+      <li><strong>性能优化：</strong> 代码性能分析、瓶颈定位与调优技巧。</li>
+    </ul>
+      </div>
+    </div>
+  </div>
+
+</div>

@@ -8,6 +8,7 @@ date: 2023-09-01
 location: "Chongqing, China"
 ---
 
+
 <div class="course-card">
   <div class="course-image">
     <!-- Placeholder image, feel free to replace it -->

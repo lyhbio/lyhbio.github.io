@@ -20,8 +20,6 @@ author_profile: false
       <p>By integrating various bioinformatics data, this project builds a holographic navigation system to discover novel drug action pathways that are difficult to uncover with traditional methods, aiming to find new breakthroughs for disease treatment.</p>
       <div class="card-footer">
         <strong>Source:</strong> NSFC Young Scientist Fund<br>
-        <strong>Funding:</strong> 300,000 RMB<br>
-        <strong>Period:</strong> 2022 - 2024
       </div>
     </div>
   </div>
@@ -36,8 +34,6 @@ author_profile: false
       <p>Adopting a "drug repurposing" strategy, this project uses large-scale computational simulations to analyze interactions between breast cancer cells and thousands of known drugs, providing a more efficient and safer approach to combating breast cancer.</p>
       <div class="card-footer">
         <strong>Source:</strong> General Program of Chongqing Science and Technology Commission<br>
-        <strong>Funding:</strong> 100,000 RMB<br>
-        <strong>Period:</strong> 2019 - 2022
       </div>
     </div>
   </div>
@@ -52,8 +48,6 @@ author_profile: false
       <p>This project integrates multi-omics "intelligence fragments" to create a comprehensive "enemy landscape," allowing for more precise identification of cancer cell vulnerabilities and the discovery of "ready-made weapons" from existing drug libraries.</p>
       <div class="card-footer">
         <strong>Source:</strong> Research Program of Chongqing Municipal Education Commission<br>
-        <strong>Funding:</strong> 40,000 RMB<br>
-        <strong>Period:</strong> 2021 - 2024
       </div>
     </div>
   </div>
@@ -68,7 +62,6 @@ author_profile: false
       <p>Developing an advanced "sonar system" to capture the abnormal "signals" of cancer cells. Through network embedding technology, information is compressed to automatically recommend existing drugs that can most effectively interfere with these signals.</p>
       <div class="card-footer">
         <strong>Source:</strong> China Postdoctoral Science Foundation<br>
-        <strong>Period:</strong> 2021 - 2024
       </div>
     </div>
   </div>
@@ -83,8 +76,6 @@ author_profile: false
       <p>This project deeply integrates technologies from Projects 1 and 3 to build a "digital twin model" for non-small cell lung cancer, training the computer to act like a medical detective to accurately identify the most promising "old drugs."</p>
       <div class="card-footer">
         <strong>Source:</strong> Special Funding from Chongqing Postdoctoral Science Foundation<br>
-        <strong>Funding:</strong> 100,000 RMB<br>
-        <strong>Period:</strong> 2022 - 2024
       </div>
     </div>
   </div>

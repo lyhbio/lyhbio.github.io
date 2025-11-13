@@ -51,7 +51,7 @@ Currently, our lab is leading 5 national and provincial-level research projects,
 *   Yinghong Li, Ph.D., Associate Professor, Master's Supervisor
 
 ### Graduate Students
-
+*   Yu Wang (Master's Student)
 *   Yudong Yan (Master's Student)
 *   Zupeng Pan (Master's Student)
 *   Fan Yang (Master's Student)
