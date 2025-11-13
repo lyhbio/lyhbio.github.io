@@ -346,3 +346,37 @@ html[data-theme="dark"] .card-footer {
 #theme-toggle {
   margin-left: 40px;
 }
+
+
+.team-member-card {
+  text-align: center;
+  margin-bottom: 2em; /* Adds vertical space between member cards */
+}
+
+.team-member-photo {
+  border-radius: 50%;      /* Makes the image circular */
+  width: 180px;             /* Sets a fixed width */
+  height: 180px;            /* Sets a fixed height */
+  object-fit: cover;        /* Ensures the image fills the circle without distortion */
+  border: 3px solid #f2f2f2; /* Optional: adds a light gray border */
+}
+
+.team-member-name {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.team-member-description {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0;
+}
+html[data-theme='dark'] .team-member-description {
+  color: #e0e0e0;
+}
+
+.grid__wrapper::after {
+  content: "";
+  display: table;
+  clear: both;
+}

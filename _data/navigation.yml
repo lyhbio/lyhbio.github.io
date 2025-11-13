@@ -25,6 +25,8 @@ main:
   - title: "教学"
     url: /teaching/    
     
+  - title: "成员"
+    url: /team/
   - title: "News"
     url: /news/
   # - title: "Portfolio"
