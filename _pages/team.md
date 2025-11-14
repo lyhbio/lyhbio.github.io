@@ -115,7 +115,7 @@ author_profile: True
     <h4 class="team-member-name">陈建东 (Jiandong Chen)</h4>
   </div>
    <div class="grid__item team-member-card">
-    <img src="/images/Zhongcheng_Yang.png" alt="Zhongcheng Yang" class="team-member-photo">
+    <img src="/images/yangzhongcheng.jpg" alt="Zhongcheng Yang" class="team-member-photo">
     <h4 class="team-member-name">杨中诚 (Zhongcheng Yang)</h4>
   </div>
 </div>

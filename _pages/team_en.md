@@ -113,7 +113,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
     <h4 class="team-member-name">Jiandong Chen</h4>
   </div>
    <div class="grid__item team-member-card">
-    <img src="/images/Zhongcheng_Yang.png" alt="Zhongcheng Yang" class="team-member-photo">
+    <img src="/images/yangzhongcheng.jpg" alt="Zhongcheng Yang" class="team-member-photo">
     <h4 class="team-member-name">Zhongcheng Yang</h4>
   </div>
 </div>
