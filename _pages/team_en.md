@@ -12,7 +12,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 
 ## Principal Investigator
 ---
-*   **Yinghong Li**, Master's Supervisor
+*   **Yinghong Li**,  Ph.D., Associate Professor, Master's Supervisor, Deputy Director of the Department of Bioinformatics at the School of Bioinformatics, Chongqing University of Posts and Telecommunications, and Executive Director of the Chongqing Society for Bioinformatics.
 
 <br/>
 

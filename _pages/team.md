@@ -14,7 +14,7 @@ author_profile: True
 
 ## Principal Investigator
 ---
-*   **李映红 (Yinghong Li)**, 硕士导师
+*   **李映红 (Yinghong Li)**, 博士，副教授，硕士生导师，重庆邮电大学生物信息学院生物信息学系副主任，重庆市生物信息学会常务理事。
 
 <br/>
 
