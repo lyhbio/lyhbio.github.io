@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Li Yinghong"
 title_separator          : "-"
 name                     : &name "Li Yinghong"
-description              : &description "李映红，博士，副教授，硕士生导师。主要从事人工智能与药物发现、生物标志物发现、生物医药数据库构建等研究工作。"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "李映红，博士，副教授，硕士生导师，重庆邮电大学生命健康信息学院生物信息学系副主任，重庆市生物信息学会理事。"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lab.lyhbio.com # The base hoxstname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "lyhbio/lyhbio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Li Yinghong"
   pronouns         : # example: "she/her"  
   bio_en           : "Li Yinghong, Ph.D., Associate Professor, Master's Supervisor, Deputy Director of the Department of Bioinformatics at the School of Bioinformatics, Chongqing University of Posts and Telecommunications, and Executive Director of the Chongqing Society for Bioinformatics."

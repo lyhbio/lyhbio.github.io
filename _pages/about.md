@@ -8,10 +8,14 @@ title: "课题组介绍"
 <div class="header-accent-left">
   <p>Lab Introduction</p>
 </div>
+我们隶属于重庆邮电大学生物信息学系，致力于通过多学科交叉融合的手段，解决生命科学与药物研发中的关键问题。
+在后基因组时代，生物医学数据呈指数级增长。本课题组的核心理念是“数据驱动科学发现”。我们紧密结合前沿的人工智能算法与高通量的单细胞多组学技术，构建从微观细胞图谱到宏观药物网络的完整研究体系。
+目前，课题组重点聚焦于以下三个互为支撑的研究方向：
+1. **人工智能与药物发现**： 利用深度学习、大语言模型等先进AI技术，构建药物-靶点相互作用模型，加速先导化合物的筛选与优化，降低新药研发的成本与周期。
+2. **单细胞多组学算法与应用**： 开发和应用最新的生物信息学工具，解析复杂疾病（如肿瘤、免疫疾病）中的细胞异质性，从单细胞层面挖掘潜在的药物靶点。
+3. **医药现代化研究**： 运用系统生物学与现代组学技术，解析中药（特别是道地药材）的药效物质基础与作用机制，用科学的语言“翻译”传统医学智慧，推动中药的国际化与现代化。
+我们热忱欢迎对生物信息学、计算生物学及药物设计感兴趣的学生加入，共同探索生命数据的奥秘。
 
-我们课题组专注于生物信息学——一个融合生物学、计算机科学和信息科学的交叉学科领域，致力于分析和解释复杂的生物数据。我们开发并应用计算方法、算法和软件工具，以揭示生物学洞见、探索大规模数据集并模拟生命系统。
-
-生物信息学支撑着从基因组学和蛋白质组学到结构生物学、进化研究和系统生物学等广泛的现代生命科学研究。我们的工作涉及机器学习和深度学习等先进计算技术，整合多源生物数据以预测药物-靶点相互作用、优化药物设计并加速新药开发；开发和管理综合性生物医学数据库，整合来自基因组学、蛋白质组学、结构生物学和系统生物学等领域的大规模数据；分析基因表达谱、构建细胞类型特异性网络、研究遗传变异在单细胞水平的动态变化。
 <!-- 课题组风采展示区 -->
 <div class="group-gallery-section">
 
@@ -25,46 +29,12 @@ title: "课题组介绍"
 </div>
 
 <div class="header-accent-left">
-  <h2>研究方向</h2>
-  <p>Research Interests</p>
-</div>
-
-*   <i class="fas fa-magic md-list-icon"></i> **人工智能与药物发现**
-*   <i class="fas fa-database md-list-icon"></i> **生物医药数据库构建**
-*   <i class="fas fa-sitemap md-list-icon"></i> **单细胞多组学分析**
-
-<div class="header-accent-left">
-  <h2>科研项目</h2>
-  <p>Grants</p>
-</div>
-
-目前主持国家级及省部级科研项目5项，纵向其他项目2项，横向项目2项。
-
-<div class="header-accent-left">
-  <h2>团队成员</h2>
-  <p>Team Members</p>
-</div>
-
-### 教师成员 (Faculty)
-
-*   李映红，博士，副教授，硕士生导师
-
-### 在读研究生 (Graduate Students)
-*   王宇 (硕士研究生)
-*   颜钰东 (硕士研究生)
-*   潘祖鹏 (硕士研究生)
-*   杨帆 (硕士研究生)
-*   黄轩浩 (硕士研究生)
-*   王鸿印 (硕士研究生)
-*   秦祥 (硕士研究生)
-
-<div class="header-accent-left">
   <h2>招生信息</h2>
   <p>Openings</p>
 </div>
 
 ### 硕士研究生招生
-*   **招生计划**：1-2人/年
+*   **招生计划**：2-3人/年
 *   **招生专业**：
     *   学术硕士：0710 生物学
     *   专业硕士：085400 电子信息
@@ -88,42 +58,8 @@ title: "课题组介绍"
     2.  具有一定的写作能力
     3.  自驱力强，有干劲！
 
-<div class="header-accent-left">
-  <h2>工作经历</h2>
-  <p>Work Experience</p>
-</div>
 
-<!-- 工作经历标题 -->
-<div class="header-accent-left">
-  <h2>工作经历</h2>
-  <p>Work Experience</p>
-</div>
 
-<!-- 工作经历列表容器 -->
-<div class="work-experience-list">
-
-  <!-- 第一个工作项 -->
-  <div class="work-item">
-    <div class="work-col date-employer"><strong>2018.12 - 至今:</strong> 重庆邮电大学</div>
-    <div class="work-col department">生物信息学院</div>
-    <div class="work-col role">专任教师</div>
-  </div>
-
-  <!-- 第二个工作项 -->
-  <div class="work-item">
-    <div class="work-col date-employer"><strong>2018.7 - 2018.12:</strong> 重庆医科大学附属第一医院</div>
-    <div class="work-col department">眼科</div>
-    <div class="work-col role">科研助理（GWAS相关研究）</div>
-  </div>
-
-  <!-- 第三个工作项 -->
-  <div class="work-item">
-    <div class="work-col date-employer"><strong>2011.8 - 2013.6:</strong> 北京贝瑞和康生物技术有限公司</div>
-    <div class="work-col department">生物信息部</div>
-    <div class="work-col role">生物信息分析师（主要从事重测序和转录组相关分析）</div>
-  </div>
-
-</div>
 <div class="header-accent-left">
   <h2>加入我们！</h2>
   <p>Join Us!</p>

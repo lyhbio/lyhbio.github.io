@@ -33,20 +33,24 @@ author_profile: True
   <div class="grid__item team-member-card">
     <img src="/images/Yudong_Yan.png" alt="Yudong Yan" class="team-member-photo">
     <h4 class="team-member-name">颜钰东 (Yudong Yan)</h4>
+    <p class="team-member-description" style="margin-bottom:auto"><a href="https://github.com/lyhbio/AMVL">项目主页</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">发表论文</a></p>
     <p class="team-member-description">2024级硕士 | 人工智能与药物发现</p>
-    <p class="team-member-description"><a href="https://github.com/lyhbio/AMVL">项目主页</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">发表论文</a></p>
+
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Zupeng_Pan.png" alt="Zupeng Pan" class="team-member-photo">
     <h4 class="team-member-name">潘祖鹏 (Zupeng Pan)</h4>
+    <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a>
     <p class="team-member-description">2024级硕士 | 异构网络与药物重定位</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Fan_Yang.png" alt="Fan Yang" class="team-member-photo">
     <h4 class="team-member-name">杨帆 (Fan Yang)</h4>
+    <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a>
     <p class="team-member-description">2024级硕士 | 人工智能与知识图谱</p>
+
   </div>
 
   <div class="grid__item team-member-card">

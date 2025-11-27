@@ -233,6 +233,9 @@ author_profile: false
         We are looking for passionate graduate and undergraduate students in bioinformatics or computational biology to develop together.
       </p>
       <p>
+      Enrollment Plan: 2-3 students per year
+      </p>
+      <p>
         If you are interested in our research areas, please do not hesitate to contact us.
       </p>
       <hr style="border-top: 1px solid var(--card-border-light); margin: 1.5rem 0;">

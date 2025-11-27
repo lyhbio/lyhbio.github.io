@@ -232,6 +232,9 @@ author_profile: false
         我们正在寻找对生物信息学或计算生物学充满热情的研究生和本科生共同发展。
       </p>
       <p>
+      招生计划：2-3人/年
+      </p>
+      <p>
         如果您对我们的研究方向感兴趣，请随时联系我们。
       </p>
       <hr style="border-top: 1px solid var(--card-border-light); margin: 1.5rem 0;">

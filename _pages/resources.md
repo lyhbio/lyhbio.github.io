@@ -80,4 +80,18 @@ author_profile: false
     </div>
   </div>
 
+  <div class="item-card">
+    <a href="https://idrblab.org/varidt/" class="card-link-overlay" target="_blank" rel="noopener noreferrer" aria-label="VARIDT 1.0: variability of drug transporter database"></a>
+    <div class="item-card-image">
+      <img src="../img/image_4.png" alt="VARIDT">
+    </div>
+    <div class="item-card-content">
+      <h3>VARIDT</h3>
+      <p>关于药物转运蛋白（DT）分布变异性的广泛数据 ，对于理解药物吸收、分布、代谢等过程至关重要。</p>
+      <div class="item-card-publication">
+        <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=varidt&btnG=" target="_blank" rel="noopener noreferrer">相关出版物 &rarr;</a>
+      </div>
+    </div>
+  </div>
+
 </div>

@@ -31,19 +31,22 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
   <div class="grid__item team-member-card">
     <img src="/images/Yudong_Yan.png" alt="Yudong Yan" class="team-member-photo">
     <h4 class="team-member-name">Yudong Yan</h4>
+    <p class="team-member-description" style="margin-bottom:auto"><a href="https://github.com/lyhbio/AMVL">Project Homepage</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275" >Publication</a></p>
     <p class="team-member-description">Class of 2024 | AI for Drug Discovery</p>
-    <p class="team-member-description"><a href="https://github.com/lyhbio/AMVL">Project Homepage</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">Publication</a></p>
+
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Zupeng_Pan.png" alt="Zupeng Pan" class="team-member-photo">
     <h4 class="team-member-name">Zupeng Pan</h4>
+    <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">Publication</a>
     <p class="team-member-description">Class of 2024 | Heterogeneous Networks and Drug Repositioning</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Fan_Yang.png" alt="Fan Yang" class="team-member-photo">
     <h4 class="team-member-name">Fan Yang</h4>
+    <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">Publication</a>
     <p class="team-member-description">Class of 2024 | AI and Knowledge Graphs</p>
   </div>
 

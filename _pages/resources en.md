@@ -79,5 +79,19 @@ author_profile: false
       </div>
     </div>
   </div>
+  
+  <div class="item-card">
+  <a href="https://idrblab.org/varidt/" class="card-link-overlay" target="_blank" rel="noopener noreferrer" aria-label="VARIDT 1.0: variability of drug transporter database"></a>
+  <div class="item-card-image">
+    <img src="/img/image_4.png" alt="VARIDT">
+  </div>
+  <div class="item-card-content">
+    <h3>VARIDT</h3>
+    <p>Comprehensive data on drug transporter (DT) variability, essential for understanding drug absorption, distribution, and metabolism.</p>
+    <div class="item-card-publication">
+      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=varidt&btnG=" target="_blank" rel="noopener noreferrer">Related Publications &rarr;</a>
+    </div>
+  </div>
+</div>
 
 </div>

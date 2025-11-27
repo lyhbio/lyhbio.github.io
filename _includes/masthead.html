@@ -35,11 +35,11 @@
             {% if page.url contains '/en/' %}
               <!-- 如果是英文页面，则生成中文链接 -->
               {% assign switch_lang_url = page.url | remove_first: '/en' %}
-              <a href="{{ switch_lang_url | relative_url }}" title="切换到中文">Chinese</a>
+              <a href="{{ switch_lang_url | relative_url }}" title="切换到中文"> 中文</a>
             {% else %}
               <!-- 如果是中文页面，则生成英文链接 -->
               {% assign switch_lang_url = page.url | prepend: '/en' %}
-              <a href="{{ switch_lang_url | relative_url }}" title="Switch to English">英语</a>
+              <a href="{{ switch_lang_url | relative_url }}" title="Switch to English">English</a>
             {% endif %}
           </li>
           

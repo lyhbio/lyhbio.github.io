@@ -9,9 +9,22 @@ title: "Lab Introduction"
   <p>Lab Introduction</p>
 </div>
 
-Our research group focuses on bioinformatics—an interdisciplinary field that merges biology, computer science, and information science to analyze and interpret complex biological data. We develop and apply computational methods, algorithms, and software tools to uncover biological insights, explore large-scale datasets, and simulate living systems.
+We are affiliated with the Department of Bioinformatics at Chongqing University of Posts and Telecommunications, committed to addressing key challenges in life sciences and drug development through interdisciplinary integration.
 
-Bioinformatics underpins a wide range of modern life science research, from genomics and proteomics to structural biology, evolutionary studies, and systems biology. Our work involves advanced computational techniques like machine learning and deep learning to integrate multi-source biological data for predicting drug-target interactions, optimizing drug design, and accelerating new drug development. We also develop and manage comprehensive biomedical databases, integrating large-scale data from fields such as genomics, proteomics, structural biology, and systems biology. Additionally, we analyze gene expression profiles, construct cell-type-specific networks, and study the dynamic changes of genetic variations at the single-cell level.
+In the post-genomic era, biomedical data is growing at an exponential rate. The core philosophy of our research group is "data-driven scientific discovery." We closely integrate cutting-edge artificial intelligence algorithms with high-throughput single-cell multi-omics technologies to construct a comprehensive research framework, ranging from microscopic cell atlases to macroscopic drug networks.
+
+Currently, our research group focuses on the following three interrelated directions:
+
+1. **Artificial Intelligence and Drug Discovery**: Utilizing advanced AI technologies such as deep learning and large language models, we aim to construct drug-target interaction models to accelerate the screening and optimization of lead compounds, thereby reducing the cost and time required for new drug development.
+
+2. **Single-Cell Multi-Omics Algorithms and Applications**: We develop and apply the latest bioinformatics tools to analyze cellular heterogeneity in complex diseases, such as cancers and immune disorders, at the single-cell level, with the goal of uncovering potential drug targets.
+
+3. **Modernization of Traditional Chinese Medicine**: By applying systems biology and modern omics technologies, we investigate the active ingredients and mechanisms of traditional Chinese medicine (especially authentic medicinal materials), translating traditional medical wisdom into scientific language, and promoting the internationalization and modernization of Chinese medicine.
+
+We warmly welcome students interested in bioinformatics, computational biology, and drug design to join us in exploring the mysteries of life data.
+
+
+
 
 <!-- Group Gallery Section -->
 <div class="group-gallery-section">
@@ -26,46 +39,12 @@ Bioinformatics underpins a wide range of modern life science research, from geno
 </div>
 
 <div class="header-accent-left">
-  <h2>Research Interests</h2>
-  <p>Research Interests</p>
-</div>
-
-*   <i class="fas fa-magic md-list-icon"></i> **Artificial Intelligence in Drug Discovery**
-*   <i class="fas fa-database md-list-icon"></i> **Biomedical Database Construction**
-*   <i class="fas fa-sitemap md-list-icon"></i> **Single-Cell Multi-Omics Analysis**
-
-<div class="header-accent-left">
-  <h2>Grants</h2>
-  <p>Grants</p>
-</div>
-
-Currently, our lab is leading 5 national and provincial-level research projects, along with 2 other vertical projects and 2 industry-sponsored projects.
-
-<div class="header-accent-left">
-  <h2>Team Members</h2>
-  <p>Team Members</p>
-</div>
-
-### Faculty
-
-*   Yinghong Li, Ph.D., Associate Professor, Master's Supervisor
-
-### Graduate Students
-*   Yu Wang (Master's Student)
-*   Yudong Yan (Master's Student)
-*   Zupeng Pan (Master's Student)
-*   Fan Yang (Master's Student)
-*   Xuanhao Huang (Master's Student)
-*   Hongyin Wang (Master's Student)
-*   Xiang Qin (Master's Student)
-
-<div class="header-accent-left">
   <h2>Openings</h2>
   <p>Openings</p>
 </div>
 
 ### Master's Student Positions
-*   **Enrollment Plan**: 1-2 students per year
+*   **Enrollment Plan**: 2-3 students per year
 *   **Majors**:
     *   Academic Master: 0710 Biology
     *   Professional Master: 085400 Electronic Information
@@ -89,36 +68,7 @@ Currently, our lab is leading 5 national and provincial-level research projects,
     2.  Good scientific writing skills.
     3.  Strong self-motivation and a proactive attitude!
 
-<div class="header-accent-left">
-  <h2>Work Experience</h2>
-  <p>Work Experience</p>
-</div>
 
-<!-- Work Experience List Container -->
-<div class="work-experience-list">
-
-  <!-- First Work Item -->
-  <div class="work-item">
-    <div class="work-col date-employer"><strong>2018.12 - Present:</strong> Chongqing University of Posts and Telecommunications</div>
-    <div class="work-col department">School of Bioinformatics</div>
-    <div class="work-col role">Faculty Member</div>
-  </div>
-
-  <!-- Second Work Item -->
-  <div class="work-item">
-    <div class="work-col date-employer"><strong>2018.7 - 2018.12:</strong> The First Affiliated Hospital of Chongqing Medical University</div>
-    <div class="work-col department">Department of Ophthalmology</div>
-    <div class="work-col role">Research Assistant (GWAS-related research)</div>
-  </div>
-
-  <!-- Third Work Item -->
-  <div class="work-item">
-    <div class="work-col date-employer"><strong>2011.8 - 2013.6:</strong> Berry Genomics Co., Ltd.</div>
-    <div class="work-col department">Bioinformatics Department</div>
-    <div class="work-col role">Bioinformatics Analyst (focused on resequencing and transcriptome analysis)</div>
-  </div>
-
-</div>
 
 <div class="header-accent-left">
   <h2>Join Us!</h2>
