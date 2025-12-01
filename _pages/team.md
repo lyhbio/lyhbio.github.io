@@ -123,3 +123,37 @@ author_profile: True
     <h4 class="team-member-name">杨中诚 (Zhongcheng Yang)</h4>
   </div>
 </div>
+
+## 优秀毕业生 (Outstanding Graduates)
+---
+
+<div class="grid__wrapper">
+  
+  <!-- 童卓浩 -->
+  <div class="grid__item team-member-card">
+    <img src="/images/Zhuohao_Tong.png" alt="Zhuohao Tong" class="team-member-photo">
+    <h4 class="team-member-name">童卓浩 (Zhuohao Tong)</h4>
+    <p class="team-member-description" style="font-weight: bold;">去向：陆军军医大学 (任职)</p>
+    <div class="team-member-description" style="font-size: 0.85em; text-align: left; margin-top: 10px;">
+      <strong>代表成果：</strong><br>
+      Lung Cancer Biomarker Database (LCBD): A Comprehensive and Curated Repository of Lung Cancer Biomarkers.<br>
+      <em>BMC Cancer</em> (IF=3.4, 中科院三区). 25: 478 (2025).
+    </div>
+  </div>
+
+  <!-- 杨寅琪 -->
+  <div class="grid__item team-member-card">
+    <img src="/images/Yinqi_Yang.png" alt="Yinqi Yang" class="team-member-photo">
+    <h4 class="team-member-name">杨寅琪 (Yinqi Yang)</h4>
+    <p class="team-member-description" style="font-weight: bold;">去向：贵安新区数字科技有限公司<br>(人工智能工程师)</p>
+    <div class="team-member-description" style="font-size: 0.85em; text-align: left; margin-top: 10px;">
+      <strong>代表成果：</strong><br>
+      1. A Comparative Benchmarking... for Heterogeneous Network-Based Drug Repositioning.<br>
+      <em>Briefings in Bioinformatics</em> (IF=9.5, 一区). 25(3):bbae172 (2024).<br><br>
+      2. Adaptive multi-view learning method for enhanced drug repurposing...<br>
+      <em>Journal of Pharmaceutical Analysis</em> (IF=6.1, 中科院一区). 15(6):101275 (2025).<br><br>
+      3. 2023年百度“PaddlePaddle飞桨杯”重庆市二等奖
+    </div>
+  </div>
+
+</div>

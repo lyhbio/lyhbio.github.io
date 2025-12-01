@@ -120,3 +120,43 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
     <h4 class="team-member-name">Zhongcheng Yang</h4>
   </div>
 </div>
+
+## Alumni (Outstanding Graduates)
+---
+
+<div class="grid__wrapper">
+  
+  <!-- Zhuohao Tong -->
+  <div class="grid__item team-member-card">
+    <img src="/images/Zhuohao_Tong.png" alt="Zhuohao Tong" class="team-member-photo">
+    <h4 class="team-member-name">Zhuohao Tong</h4>
+    <p class="team-member-description" style="font-weight: bold; color: #333;">
+      Current Position:<br>
+      Staff at Army Medical University
+    </p>
+    <div class="team-member-description" style="font-size: 0.85em; text-align: left; margin-top: 10px;">
+      <strong>Selected Publication:</strong><br>
+      Li Y, <strong>Tong Z</strong>, et al. Lung Cancer Biomarker Database (LCBD): A Comprehensive and Curated Repository of Lung Cancer Biomarkers.<br>
+      <em>BMC Cancer</em> (IF=3.4). 25: 478 (2025).
+    </div>
+  </div>
+
+  <!-- Yinqi Yang -->
+  <div class="grid__item team-member-card">
+    <img src="/images/Yinqi_Yang.png" alt="Yinqi Yang" class="team-member-photo">
+    <h4 class="team-member-name">Yinqi Yang</h4>
+    <p class="team-member-description" style="font-weight: bold; color: #333;">
+      Current Position:<br>
+      AI Engineer at Gui'an New District Digital Technology Co., Ltd.
+    </p>
+    <div class="team-member-description" style="font-size: 0.85em; text-align: left; margin-top: 10px;">
+      <strong>Achievements:</strong><br>
+      1. Li Y, <strong>Yang Y</strong>, et al. A Comparative Benchmarking... for Heterogeneous Network-Based Drug Repositioning.<br>
+      <em>Briefings in Bioinformatics</em> (IF=9.5). 25(3):bbae172 (2024).<br><br>
+      2. Yan Y, <strong>Yang Y</strong>, et al. Adaptive multi-view learning method for enhanced drug repurposing...<br>
+      <em>Journal of Pharmaceutical Analysis</em> (IF=6.1). 15(6):101275 (2025).<br><br>
+      3. 2nd Prize, 2023 Baidu "PaddlePaddle" AI Innovation Contest (Chongqing Division).
+    </div>
+  </div>
+
+</div>
