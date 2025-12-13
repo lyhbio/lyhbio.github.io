@@ -13,7 +13,7 @@ title                    : "Li Yinghong"
 title_separator          : "-"
 name                     : &name "Li Yinghong"
 description              : &description "李映红，博士，副教授，硕士生导师，重庆邮电大学生命健康信息学院生物信息学系副主任，重庆市生物信息学会理事。"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : http://lab.lyhbio.com/ # The base hoxstname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : http://lyhbio.github.io/ # The base hoxstname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lyhbio/lyhbio.github.io"
