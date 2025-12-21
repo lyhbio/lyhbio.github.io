@@ -1,35 +1,38 @@
-# Base image: Ruby with necessary dependencies for Jekyll
-FROM ruby:3.2
+FROM hub.rat.dev/library/ruby:3.2
 
 # Install dependencies
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    nodejs \
-    && rm -rf /var/lib/apt/lists/*
-
-
-# Create a non-root user with UID 1000
-RUN groupadd -g 1000 vscode && \
-    useradd -m -u 1000 -g vscode vscode
-
+RUN sed -i 's|http://deb.debian.org/debian|http://mirrors.aliyun.com/debian|g' /etc/apt/sources.list.d/debian.sources && \
+    sed -i 's|http://deb.debian.org/debian-security|http://mirrors.aliyun.com/debian-security|g' /etc/apt/sources.list.d/debian.sources && \
+    apt-get update && \
+    apt-get install -y build-essential sudo nodejs vim iputils-ping telnet && \
+    rm -rf /var/lib/apt/lists/*
+    
 # Set the working directory
 WORKDIR /usr/src/app
 
 # Set permissions for the working directory
-RUN chown -R vscode:vscode /usr/src/app
+RUN chown -R root:root /usr/src/app
 
 # Switch to the non-root user
-USER vscode
+USER root
 
-# Copy Gemfile into the container (necessary for `bundle install`)
+# Copy Gemfile into the container
 COPY Gemfile ./
 
+# 使用阿里云 RubyGems 源
+RUN gem sources --remove https://rubygems.org/ && \
+    gem sources --add https://mirrors.aliyun.com/rubygems/ && \
+    gem install bundler -v 2.3.26 && \
+    bundle config mirror.https://rubygems.org https://mirrors.aliyun.com/rubygems
 
+# Install gems (now includes kramdown-parser-gfm)
+RUN bundle install --without development test
 
-# Install bundler and dependencies
-RUN gem install connection_pool:2.5.0
-RUN gem install bundler:2.3.26
-RUN bundle install
+# Copy all source files
+COPY . .
 
-# Command to serve the Jekyll site
-CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml,_config_docker.yml"]
+# Build the site
+RUN bundle exec jekyll build --config _config.yml
+
+# Serve the site
+CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml"]
