@@ -31,7 +31,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
   <div class="grid__item team-member-card">
     <img src="/images/Yudong_Yan.png" alt="Yudong Yan" class="team-member-photo">
     <h4 class="team-member-name">Yudong Yan</h4>
-    <p class="team-member-description" style="margin-bottom:auto"><a href="https://github.com/lyhbio/AMVL">Project Homepage</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275" >Publication</a></p>
+    <p class="team-member-description" style="margin-bottom:auto"><a href="https://vccv.cc">Project Homepage</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275" >Publication</a></p>
     <p class="team-member-description">Class of 2024 | AI for Drug Discovery</p>
 
   </div>
@@ -75,8 +75,8 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 
 <div class="grid__wrapper">
   <div class="grid__item team-member-card">
-    <img src="/images/Jilong_Mu.png" alt="Jilong Mu" class="team-member-photo">
-    <h4 class="team-member-name">Jilong Mu</h4>
+    <img src="/images/Jilong_Mu.png" alt="Julong Mou" class="team-member-photo">
+    <h4 class="team-member-name">Julong Mou</h4>
     <p class="team-member-description">Drug-Target Affinity Prediction</p>
   </div>
   <div class="grid__item team-member-card">

@@ -33,7 +33,7 @@ author_profile: True
   <div class="grid__item team-member-card">
     <img src="/images/Yudong_Yan.png" alt="Yudong Yan" class="team-member-photo">
     <h4 class="team-member-name">颜钰东 (Yudong Yan)</h4>
-    <p class="team-member-description" style="margin-bottom:auto"><a href="https://github.com/lyhbio/AMVL">项目主页</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">发表论文</a></p>
+    <p class="team-member-description" style="margin-bottom:auto"><a href="https://vccv.cc">项目主页</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">发表论文</a></p>
     <p class="team-member-description">2024级硕士 | 人工智能与药物发现</p>
 
   </div>
@@ -78,8 +78,8 @@ author_profile: True
 
 <div class="grid__wrapper">
   <div class="grid__item team-member-card">
-    <img src="/images/Jilong_Mu.png" alt="Jilong Mu" class="team-member-photo">
-    <h4 class="team-member-name">牟桔隆 (Jilong Mu)</h4>
+    <img src="/images/Jilong_Mu.png" alt="Julong Mou" class="team-member-photo">
+    <h4 class="team-member-name">牟桔隆 (Julong Mou)</h4>
     <p class="team-member-description">药物-靶点亲和力预测</p>
   </div>
   <div class="grid__item team-member-card">
