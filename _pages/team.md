@@ -70,6 +70,12 @@ author_profile: True
     <h4 class="team-member-name">秦祥 (Xiang Qin)</h4>
     <p class="team-member-description">2025级硕士 | 单细胞组学分析</p>
   </div>
+  
+  <div class="grid__item team-member-card">
+    <img src="/images/Jie Ou.png" alt="Jie Ou" class="team-member-photo">
+    <h4 class="team-member-name">欧洁 (Jie Ou)</h4>
+    <p class="team-member-description">2026硕士 | 人工智能与药物发现</p>
+  </div>
 </div>
 
 
