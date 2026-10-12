@@ -165,6 +165,10 @@ author_profile: True
     <img src="/images/yangzhongcheng.jpg" alt="Zhongcheng Yang" class="team-member-photo">
     <h4 class="team-member-name">杨中诚 (Zhongcheng Yang)</h4>
   </div>
+  <div class="grid__item team-member-card">
+    <img src="/images/JingRu_Liu.png" alt="JingRu_Liu" class="team-member-photo">
+    <h4 class="team-member-name">刘静茹 (JingRu_Liu)</h4>
+  </div>
 </div>
 
 ## 优秀毕业生 (Outstanding Graduates)
