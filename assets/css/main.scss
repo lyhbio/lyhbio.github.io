@@ -361,6 +361,26 @@ html[data-theme="dark"] .card-footer {
 }
 
 
+.team-member-card {
+  text-align: left;    /* 原为 center：改成 left，或直接删掉这一行 */
+  margin-bottom: 2em;
+}
+
+.team-member-photo {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border: 3px solid #f2f2f2;
+  display: block;      /* 新增：让头像继续居中 */
+  margin: 0 auto;      /* 新增 */
+}
+
+.team-member-name {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  text-align: center;  /* 新增：只把姓名留在中间 */
+}
 .team-member-description {
   font-size: 0.9em;
   color: #666;
