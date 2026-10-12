@@ -184,6 +184,7 @@ author_profile: True
 <div class="grid__item team-member-card">
     <img src="/images/ChengKe_Li.png" alt="ChengKe_Li" class="team-member-photo">
     <h4 class="team-member-name">李丞可(ChengKe_Li)</h4>
+  </div>
 </div>
   
 ## 优秀毕业生 (Outstanding Graduates)
