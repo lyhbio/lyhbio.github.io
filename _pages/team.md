@@ -101,7 +101,7 @@ author_profile: True
     <h4 class="team-member-name">牟桔隆 (Julong Mou)</h4>
     <p class="team-member-description">药物-靶点亲和力预测</p>
   </div>
-  <div class="grid__item team-member-card"&“.team-member-card { text-align: left; }”>
+  <div class="grid__item team-member-card">
     <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
     <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
       <strong>代表成果：</strong><br>
