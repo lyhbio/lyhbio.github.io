@@ -101,7 +101,7 @@ author_profile: True
     <h4 class="team-member-name">牟桔隆 (Julong Mou)</h4>
     <p class="team-member-description">药物-靶点亲和力预测</p>
   </div>
-  <div class="grid__item team-member-card">
+  <div class="grid__item team-member-card"&“.team-member-card { text-align: left; }”>
     <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
     <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
       <strong>代表成果：</strong><br>
@@ -110,6 +110,7 @@ author_profile: True
       3.山城杯三等奖.<br>
       4.重庆市大模型竞赛2025三等奖
   </div>
+ 
    <div class="grid__item team-member-card">
     <img src="/images/Guoyao_Wang.png" alt="Guoyao Wang" class="team-member-photo">
     <h4 class="team-member-name">王国尧 (Guoyao Wang)</h4>
