@@ -378,6 +378,17 @@ html[data-theme="dark"] .card-footer {
 
 .team-member-name {
   margin-top: 15px;
+   /* 卡片正文换成正文字体（原全局字体是 "Ma Shan Zheng" 手写体） */
+.team-member-card {
+  font-family: "Noto Sans SC", "Microsoft YaHei", system-ui, sans-serif;
+}
+
+/* 成果列表想更正式一点，用衬线体 */
+.team-member-facts {
+  font-family: "Noto Serif SC", "Songti SC", "SimSun", serif;
+  font-size: 0.95em;
+  line-height: 1.7;
+}
   margin-bottom: 5px;
   text-align: center;  /* 新增：只把姓名留在中间 */
 }
