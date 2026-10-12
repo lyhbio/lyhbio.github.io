@@ -106,9 +106,9 @@ author_profile: True
   <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
   <div class="team-member-facts">
     <strong>代表成果：</strong><br>
-    1.mathorcup2026国二.<br>
-    2.长城杯半决赛三等奖.<br>
-    3.山城杯三等奖.<br>
+    1.mathorcup2026国二<br>
+    2.长城杯半决赛三等奖<br>
+    3.山城杯三等奖<br>
     4.重庆市大模型竞赛2025三等奖
   </div>
 </div>
