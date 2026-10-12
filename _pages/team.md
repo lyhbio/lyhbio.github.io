@@ -99,16 +99,15 @@ author_profile: True
   <div class="grid__item team-member-card">
     <img src="/images/Jilong_Mu.png" alt="Julong Mou" class="team-member-photo">
     <h4 class="team-member-name">牟桔隆 (Julong Mou)</h4>
+   <a href="https://xa.nstl.gov.cn/paper_detail.html?id=3defad8eb61fd20eabb24357d959deeb#1">发表论文</a>
     <p class="team-member-description">药物-靶点亲和力预测</p>
      <strong>代表成果：</strong><br>
       1. 美国大学生数学建模竞赛（MCM/ICM）：Honor奖.<br>
       2. 蓝桥杯软件赛（省级）：一等奖.<br>
-      3. LKE-DTA:Predicting Drug-Target Binding Affinity with Large Language Model Representations and Knowledge Graph EmbeddingsMolecular Diversity.<br>
-      <em> 12 November 2025</em>（IF=4.1，中科院2区）.<br>
-      4. 清华社杯大学生算法大赛（省级）：三等奖.<br>
-      5.蓝桥杯软件赛（国家级）：二等奖.<br>
-      6.工业互联网平台开发工程师（中级）能力水平证书.<br>
-      7.睿抗机器人开发者赛（省级）：二等奖
+      3. 清华社杯大学生算法大赛（省级）：三等奖.<br>
+      4.蓝桥杯软件赛（国家级）：二等奖.<br>
+      5.工业互联网平台开发工程师（中级）能力水平证书.<br>
+      6.睿抗机器人开发者赛（省级）：二等奖
   </div>
  <div class="grid__item team-member-card">
   <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
