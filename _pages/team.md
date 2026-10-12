@@ -181,7 +181,11 @@ author_profile: True
     <img src="/images/ZiHan_Feng.png" alt="ZiHan_Feng" class="team-member-photo">
     <h4 class="team-member-name">冯子涵(ZiHan_Feng)</h4>
 </div>
-
+<div class="grid__item team-member-card">
+    <img src="/images/ChengKe_Li.png" alt="ChengKe_Li" class="team-member-photo">
+    <h4 class="team-member-name">李丞可(ChengKe_Li)</h4>
+</div>
+  
 ## 优秀毕业生 (Outstanding Graduates)
 ---
 
