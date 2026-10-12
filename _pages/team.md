@@ -101,16 +101,17 @@ author_profile: True
     <h4 class="team-member-name">牟桔隆 (Julong Mou)</h4>
     <p class="team-member-description">药物-靶点亲和力预测</p>
   </div>
-  <div class="grid__item team-member-card">
-    <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
-    <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
-      <strong>代表成果：</strong><br>
-      1.mathorcup2026国二.<br>
-      2.长城杯半决赛三等奖 .<br>
-      3.山城杯三等奖.<br>
-      4.重庆市大模型竞赛2025三等奖
+ <div class="grid__item team-member-card">
+  <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
+  <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
+  <div class="team-member-facts">
+    <strong>代表成果：</strong><br>
+    1.mathorcup2026国二.<br>
+    2.长城杯半决赛三等奖 .<br>
+    3.山城杯三等奖.<br>
+    4.重庆市大模型竞赛2025三等奖
   </div>
- 
+</div>
    <div class="grid__item team-member-card">
     <img src="/images/Guoyao_Wang.png" alt="Guoyao Wang" class="team-member-photo">
     <h4 class="team-member-name">王国尧 (Guoyao Wang)</h4>
