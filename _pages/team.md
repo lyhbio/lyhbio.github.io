@@ -50,7 +50,8 @@ author_profile: True
     <h4 class="team-member-name">杨帆 (Fan Yang)</h4>
     <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a>
     <p class="team-member-description">2024级硕士 | 人工智能与知识图谱</p>
-
+    <strong>代表成果：</strong><br>
+    国家奖学金
   </div>
 
   <div class="grid__item team-member-card">
@@ -131,6 +132,8 @@ author_profile: True
    <div class="grid__item team-member-card">
     <img src="/images/Chenghong_Huan.png" alt="Chenghong Huan" class="team-member-photo">
     <h4 class="team-member-name">宦成洪 (Chenghong Huan)</h4>
+      <strong>代表成果：</strong><br>
+    国家奖学金
   </div>
    <div class="grid__item team-member-card">
     <img src="/images/Jiandong_Chen.png" alt="Jiandong Chen" class="team-member-photo">
