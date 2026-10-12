@@ -169,6 +169,17 @@ author_profile: True
     <img src="/images/JingRu_Liu.png" alt="JingRu_Liu" class="team-member-photo">
     <h4 class="team-member-name">刘静茹 (JingRu_Liu)</h4>
   </div>
+   <div class="grid__item team-member-card">
+    <img src="/images/Yin_Zhang.png" alt="Yin_Zhang" class="team-member-photo">
+    <h4 class="team-member-name">张颖 (Yin_Zhang)</h4>
+  </div>
+    <div class="grid__item team-member-card">
+    <img src="/images/Kang_Du.png" alt="Kang_Du" class="team-member-photo">
+    <h4 class="team-member-name">杜康(Kang_Du)</h4>
+  </div>
+  <div class="grid__item team-member-card">
+    <img src="/images/ZiHan_Feng.png" alt="ZiHan_Feng" class="team-member-photo">
+    <h4 class="team-member-name">冯子涵(ZiHan_Feng)</h4>
 </div>
 
 ## 优秀毕业生 (Outstanding Graduates)
