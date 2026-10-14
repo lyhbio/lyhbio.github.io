@@ -395,3 +395,25 @@ html[data-theme='dark'] .team-member-description {
   display: table;
   clear: both;
 }
+/* ===== 只作用于成员页 /team/ ===== */
+body.team-page #main .page__title {
+  font-family: "Noto Serif SC", "PT Serif", Georgia, "SimSun", serif;
+  font-size: 2em;
+}
+body.team-page #main .archive h2 {
+  font-family: "Noto Sans SC", -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 1.5em;
+}
+body.team-page #main .archive h3 {
+  font-family: "Noto Sans SC", -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 1.25em;
+}
+body.team-page #main .team-member-name {
+  font-family: "Noto Sans SC", -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 1.15em;
+}
+body.team-page #main .team-member-description {
+  font-family: "Noto Sans SC", -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
