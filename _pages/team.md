@@ -81,7 +81,6 @@ author_profile: True
     <h4 class="team-member-name">韩宇航 (YuHang_Han)</h4>
     <p class="team-member-description">2026硕士 | 人工智能与药物发现</p>
   </div>
-</div>
 
 ## 本科生 (Undergraduate Students)
 ---
