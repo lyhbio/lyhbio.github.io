@@ -396,24 +396,30 @@ html[data-theme='dark'] .team-member-description {
   clear: both;
 }
 /* ===== 只作用于成员页 /team/ ===== */
+/* 统一字体：宋体（衬线），系统自带、国内可直接显示，不依赖 Google Fonts */
+body.team-page #main .archive,
+body.team-page #main .team-member-card {
+  font-family: Georgia, "Times New Roman", "SimSun", "宋体", "Songti SC", "STSong", "Noto Serif CJK SC", serif;
+}
 body.team-page #main .page__title {
-  font-family: "Noto Serif SC", "PT Serif", Georgia, "SimSun", serif;
+  font-family: Georgia, "Times New Roman", "SimSun", "宋体", "Songti SC", "STSong", "Noto Serif CJK SC", serif;
   font-size: 2em;
 }
 body.team-page #main .archive h2 {
-  font-family: "Noto Sans SC", -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1.5em;
+  font-family: Georgia, "Times New Roman", "SimSun", "宋体", "Songti SC", "STSong", "Noto Serif CJK SC", serif;
+  font-size: 1.6em;
 }
 body.team-page #main .archive h3 {
-  font-family: "Noto Sans SC", -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1.25em;
+  font-family: Georgia, "Times New Roman", "SimSun", "宋体", "Songti SC", "STSong", "Noto Serif CJK SC", serif;
+  font-size: 1.3em;
 }
 body.team-page #main .team-member-name {
-  font-family: "Noto Sans SC", -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1.15em;
+  font-family: Georgia, "Times New Roman", "SimSun", "宋体", "Songti SC", "STSong", "Noto Serif CJK SC", serif;
+  font-size: 1.25em;
+  font-weight: bold;
 }
 body.team-page #main .team-member-description {
-  font-family: "Noto Sans SC", -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 0.95em;
-  line-height: 1.6;
+  font-family: Georgia, "Times New Roman", "SimSun", "宋体", "Songti SC", "STSong", "Noto Serif CJK SC", serif;
+  font-size: 1em;
+  line-height: 1.7;
 }
