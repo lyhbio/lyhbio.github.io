@@ -110,7 +110,6 @@ author_profile: True
     3.山城杯三等奖<br>
     4.重庆市大模型竞赛2025三等奖
   </div>
-</div>
    <div class="grid__item team-member-card">
     <img src="/images/Guoyao_Wang.png" alt="Guoyao Wang" class="team-member-photo">
     <h4 class="team-member-name">王国尧 (Guoyao Wang)</h4>
