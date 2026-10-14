@@ -23,34 +23,26 @@ author_profile: True
 
 ### 在读硕士生 (Master Students)
 
-<div class="grid__wrapper">
-  <div class="grid__item team-member-card">
-    <img src="/images/Yu_Wang.png" alt="Yu Wang" class="team-member-photo">
-    <h4 class="team-member-name">王宇 (Yu Wang)</h4>
-    <p class="team-member-description">2023级硕士 | 生物医学信息抽取</p>
-  </div>
-
   <div class="grid__item team-member-card">
     <img src="/images/Yudong_Yan.png" alt="Yudong Yan" class="team-member-photo">
     <h4 class="team-member-name">颜钰东 (Yudong Yan)</h4>
-    <p class="team-member-description" style="margin-bottom:auto"><a href="https://vccv.cc">项目主页</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">发表论文</a></p>
     <p class="team-member-description">2024级硕士 | 人工智能与药物发现</p>
-
+    <p class="team-member-description" style="margin-bottom:auto"><a href="https://vccv.cc">项目主页</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">发表论文</a></p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Zupeng_Pan.png" alt="Zupeng Pan" class="team-member-photo">
     <h4 class="team-member-name">潘祖鹏 (Zupeng Pan)</h4>
-    <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a>
     <p class="team-member-description">2024级硕士 | 异构网络与药物重定位</p>
+    <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Fan_Yang.png" alt="Fan Yang" class="team-member-photo">
     <h4 class="team-member-name">杨帆 (Fan Yang)</h4>
-    <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a>
     <p class="team-member-description">2024级硕士 | 人工智能与知识图谱</p>
-    <strong>代表成果：</strong><br>
+    <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a><br>
+    <strong>获奖情况：</strong>
     国家奖学金
   </div>
 
@@ -99,9 +91,9 @@ author_profile: True
   <div class="grid__item team-member-card">
     <img src="/images/Jilong_Mu.png" alt="Julong Mou" class="team-member-photo">
     <h4 class="team-member-name">牟桔隆 (Julong Mou)</h4>
-   <a href="https://xa.nstl.gov.cn/paper_detail.html?id=3defad8eb61fd20eabb24357d959deeb#1">发表论文</a>
+   <a href="">发表论文</a>
     <p class="team-member-description">药物-靶点亲和力预测</p>
-     <strong>代表成果：</strong><br>
+     <strong>获奖情况：</strong><br>
       1. 美国大学生数学建模竞赛（MCM/ICM）：Honor奖.<br>
       2. 蓝桥杯软件赛（省级）：一等奖.<br>
       3. 清华社杯大学生算法大赛（省级）：三等奖.<br>
@@ -113,7 +105,7 @@ author_profile: True
   <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
   <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
   <div class="team-member-facts">
-    <strong>代表成果：</strong><br>
+    <strong>获奖情况：</strong><br>
     1.mathorcup2026国二<br>
     2.长城杯半决赛三等奖<br>
     3.山城杯三等奖<br>
@@ -143,7 +135,7 @@ author_profile: True
    <div class="grid__item team-member-card">
     <img src="/images/Sheng_Chen.png" alt="Sheng Chen" class="team-member-photo">
     <h4 class="team-member-name">陈胜 (Sheng Chen)</h4>
-      <strong>代表成果：</strong><br>
+      <strong>获奖情况：</strong><br>
     1.第十一届全国大学生生物医学工程创新设计竞赛全国三等奖<br>
     2.全国大学生生物医学工程创新科普微视频大赛一等奖<br>
     3.计算机系统能力大赛三等奖<br>
@@ -154,7 +146,7 @@ author_profile: True
    <div class="grid__item team-member-card">
     <img src="/images/Chenghong_Huan.png" alt="Chenghong Huan" class="team-member-photo">
     <h4 class="team-member-name">宦成洪 (Chenghong Huan)</h4>
-      <strong>代表成果：</strong><br>
+      <strong>获奖情况：</strong><br>
     国家奖学金
   </div>
    <div class="grid__item team-member-card">
