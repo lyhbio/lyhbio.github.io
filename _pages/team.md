@@ -100,6 +100,7 @@ author_profile: True
       5.工业互联网平台开发工程师（中级）能力水平证书.<br>
       6.睿抗机器人开发者赛（省级）：二等奖
   </div>
+</div>
  <div class="grid__item team-member-card">
   <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
   <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
@@ -110,18 +111,23 @@ author_profile: True
     3.山城杯三等奖<br>
     4.重庆市大模型竞赛2025三等奖
   </div>
+</div>
    <div class="grid__item team-member-card">
     <img src="/images/Guoyao_Wang.png" alt="Guoyao Wang" class="team-member-photo">
     <h4 class="team-member-name">王国尧 (Guoyao Wang)</h4>
   </div>
-   <div class="grid__item team-member-card">
+ </div>
+</div>
+  <div class="grid__item team-member-card">
     <img src="/images/Jiale_Rao.png" alt="Jiale Rao" class="team-member-photo">
     <h4 class="team-member-name">饶佳乐 (Jiale Rao)</h4>
   </div>
+</div>
    <div class="grid__item team-member-card">
     <img src="/images/Boren_Jiang.png" alt="Boren Jiang" class="team-member-photo">
     <h4 class="team-member-name">姜博仁 (Boren Jiang)</h4>
-  </div>
+   </div>
+</div>
    <div class="grid__item team-member-card">
     <img src="/images/Yongkang_Li.png" alt="Yongkang Li" class="team-member-photo">
     <h4 class="team-member-name">李永康 (Yongkang Li)</h4>
