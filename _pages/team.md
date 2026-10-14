@@ -3,6 +3,7 @@ layout: archive
 title: "Team"
 permalink: /team/
 author_profile: True
+classes: team-page
 ---
 
 {% include base_path %}
