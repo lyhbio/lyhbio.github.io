@@ -65,7 +65,7 @@ author_profile: True
   </div>
 
   <div class="grid__item team-member-card">
-    <img src="/images/Jie_Ou.png" alt="Jie Ou" class="team-member-photo">
+    <img src="/images/Jie Ou.png" alt="Jie Ou" class="team-member-photo">
     <h4 class="team-member-name">欧洁 (Jie Ou)</h4>
     <p class="team-member-description">2026硕士 | 人工智能与药物发现</p>
   </div>
