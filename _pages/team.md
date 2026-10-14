@@ -100,46 +100,48 @@ author_profile: True
       5.工业互联网平台开发工程师（中级）能力水平证书.<br>
       6.睿抗机器人开发者赛（省级）：二等奖
   </div>
-</div>
- <div class="grid__item team-member-card">
-  <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
-  <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
-  <div class="team-member-facts">
-    <strong>获奖情况：</strong><br>
-    1.mathorcup2026国二<br>
-    2.长城杯半决赛三等奖<br>
-    3.山城杯三等奖<br>
-    4.重庆市大模型竞赛2025三等奖
+
+  <div class="grid__item team-member-card">
+    <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
+    <h4 class="team-member-name">吴文俊 (Wenjun Wu)</h4>
+    <div class="team-member-facts">
+      <strong>获奖情况：</strong><br>
+      1.mathorcup2026国二<br>
+      2.长城杯半决赛三等奖<br>
+      3.山城杯三等奖<br>
+      4.重庆市大模型竞赛2025三等奖
+    </div>
   </div>
-</div>
-   <div class="grid__item team-member-card">
+
+  <div class="grid__item team-member-card">
     <img src="/images/Guoyao_Wang.png" alt="Guoyao Wang" class="team-member-photo">
     <h4 class="team-member-name">王国尧 (Guoyao Wang)</h4>
   </div>
- </div>
-</div>
+
   <div class="grid__item team-member-card">
     <img src="/images/Jiale_Rao.png" alt="Jiale Rao" class="team-member-photo">
     <h4 class="team-member-name">饶佳乐 (Jiale Rao)</h4>
   </div>
-</div>
-   <div class="grid__item team-member-card">
+
+  <div class="grid__item team-member-card">
     <img src="/images/Boren_Jiang.png" alt="Boren Jiang" class="team-member-photo">
     <h4 class="team-member-name">姜博仁 (Boren Jiang)</h4>
-   </div>
-</div>
-   <div class="grid__item team-member-card">
+  </div>
+
+  <div class="grid__item team-member-card">
     <img src="/images/Yongkang_Li.png" alt="Yongkang Li" class="team-member-photo">
     <h4 class="team-member-name">李永康 (Yongkang Li)</h4>
   </div>
-   <div class="grid__item team-member-card">
+
+  <div class="grid__item team-member-card">
     <img src="/images/Xiaoran_Wu.png" alt="Xiaoran Wu" class="team-member-photo">
     <h4 class="team-member-name">吴笑然 (Xiaoran Wu)</h4>
   </div>
-   <div class="grid__item team-member-card">
+
+  <div class="grid__item team-member-card">
     <img src="/images/Sheng_Chen.png" alt="Sheng Chen" class="team-member-photo">
     <h4 class="team-member-name">陈胜 (Sheng Chen)</h4>
-      <strong>获奖情况：</strong><br>
+    <strong>获奖情况：</strong><br>
     1.第十一届全国大学生生物医学工程创新设计竞赛全国三等奖<br>
     2.全国大学生生物医学工程创新科普微视频大赛一等奖<br>
     3.计算机系统能力大赛三等奖<br>
@@ -147,40 +149,49 @@ author_profile: True
     5.一种基于分形维数的细胞迁移模式分析方法（专利）<br>
     6.华数杯全国大学生数学建模竞赛二等奖<br>
   </div>
-   <div class="grid__item team-member-card">
+
+  <div class="grid__item team-member-card">
     <img src="/images/Chenghong_Huan.png" alt="Chenghong Huan" class="team-member-photo">
     <h4 class="team-member-name">宦成洪 (Chenghong Huan)</h4>
-      <strong>获奖情况：</strong><br>
+    <strong>获奖情况：</strong><br>
     国家奖学金
   </div>
-   <div class="grid__item team-member-card">
+
+  <div class="grid__item team-member-card">
     <img src="/images/Jiandong_Chen.png" alt="Jiandong Chen" class="team-member-photo">
     <h4 class="team-member-name">陈建东 (Jiandong Chen)</h4>
   </div>
-   <div class="grid__item team-member-card">
+
+  <div class="grid__item team-member-card">
     <img src="/images/yangzhongcheng.jpg" alt="Zhongcheng Yang" class="team-member-photo">
     <h4 class="team-member-name">杨中诚 (Zhongcheng Yang)</h4>
   </div>
+
   <div class="grid__item team-member-card">
     <img src="/images/JingRu_Liu.png" alt="JingRu_Liu" class="team-member-photo">
     <h4 class="team-member-name">刘静茹 (JingRu_Liu)</h4>
   </div>
-   <div class="grid__item team-member-card">
+
+  <div class="grid__item team-member-card">
     <img src="/images/Yin_Zhang.png" alt="Yin_Zhang" class="team-member-photo">
     <h4 class="team-member-name">张颖 (Yin_Zhang)</h4>
   </div>
-    <div class="grid__item team-member-card">
+
+  <div class="grid__item team-member-card">
     <img src="/images/Kang_Du.png" alt="Kang_Du" class="team-member-photo">
     <h4 class="team-member-name">杜康(Kang_Du)</h4>
   </div>
+
   <div class="grid__item team-member-card">
     <img src="/images/ZiHan_Feng.png" alt="ZiHan_Feng" class="team-member-photo">
     <h4 class="team-member-name">冯子涵(ZiHan_Feng)</h4>
-</div>
-<div class="grid__item team-member-card">
+  </div>
+
+  <div class="grid__item team-member-card">
     <img src="/images/ChengKe_Li.png" alt="ChengKe_Li" class="team-member-photo">
     <h4 class="team-member-name">李丞可(ChengKe_Li)</h4>
   </div>
+
   <div class="grid__item team-member-card">
     <img src="/images/Yin_Jiao.png" alt="Yin_Jiao" class="team-member-photo">
     <h4 class="team-member-name">焦莹(Yin_Jiao)</h4>
