@@ -6,30 +6,7 @@ author_profile: True
 ---
 
 {% include base_path %}
-<style>
-  /* 1. 修改整个页面正文的基础字体和大小 */
-  .page__content {
-    /* 字体型号：优先使用微软雅黑/苹方，如果用户没有则降级到无衬线字体 */
-    font-family: "Microsoft YaHei", "PingFang SC", "Helvetica Neue", Arial, sans-serif;
-    font-size: 16px; /* 基础字号，一般推荐 14px - 16px */
-    color: #333333;
-  }
 
-  /* 2. 修改学生姓名（h4标题）的字体和大小 */
-  .page__content .team-member-name {
-    font-family: "Times New Roman", "SimSun", serif; /* 改为衬线字体（如宋体/罗马体） */
-    font-size: 18px; /* 名字字号稍微大一点 */
-    font-weight: bold;
-  }
-
-  /* 3. 修改学生描述、获奖情况等正文的字体和大小 */
-  .page__content .team-member-description,
-  .page__content .team-member-facts {
-    font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
-    font-size: 14px; /* 描述文字稍微小一点 */
-    line-height: 1.6; /* 行高，防止文字挤在一起 */
-  }
-</style>
 <!--
 说明：请将图片路径 /images/your-photo.jpg 替换为成员的真实照片路径。
 照片文件需要先上传到您网站仓库的 /images/ 文件夹下。
