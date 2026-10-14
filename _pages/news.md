@@ -192,6 +192,10 @@ author_profile: false
       <ul class="news-list">
         <li>
           <span class="news-icon"></span>
+          <div><span class="news-date">2026 年9月:</span>恭喜王宇和王鸿印论文已被 <em>Pttern Rwcognition</em> 接收。</div>
+        </li>
+        <li>
+          <span class="news-icon"></span>
           <div><span class="news-date">2025年10月:</span>恭喜牟桔隆论文已被 <em>Molecular Diversity</em> 接收。</div>
         </li>
         <li>
