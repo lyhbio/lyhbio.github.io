@@ -20,7 +20,6 @@ author_profile: True
 
 ## 研究生 (Graduate Students)
 ---
-
 ### 在读硕士生 (Master Students)
 
 <div class="grid__wrapper">
@@ -31,7 +30,6 @@ author_profile: True
     <p class="team-member-description" style="margin-bottom:auto"><a href="https://vccv.cc">项目主页</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">发表论文</a></p>
   </div>
 
-<div class="grid__wrapper">
   <div class="grid__item team-member-card">
     <img src="/images/Zupeng_Pan.png" alt="Zupeng Pan" class="team-member-photo">
     <h4 class="team-member-name">潘祖鹏 (Zupeng Pan)</h4>
@@ -39,7 +37,6 @@ author_profile: True
     <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a>
   </div>
 
-<div class="grid__wrapper">
   <div class="grid__item team-member-card">
     <img src="/images/Fan_Yang.png" alt="Fan Yang" class="team-member-photo">
     <h4 class="team-member-name">杨帆 (Fan Yang)</h4>
@@ -54,41 +51,37 @@ author_profile: True
     <h4 class="team-member-name">黄轩浩 (Xuanhao Huang)</h4>
     <p class="team-member-description">2024级硕士 | 单细胞组学分析</p>
   </div>
-  
-<div class="grid__wrapper">
+
   <div class="grid__item team-member-card">
     <img src="/images/Hongyin_Wang.png" alt="Hongyin Wang" class="team-member-photo">
     <h4 class="team-member-name">王鸿印 (Hongyin Wang)</h4>
     <p class="team-member-description">2025级硕士 | 人工智能与药物发现</p>
   </div>
-  
-<div class="grid__wrapper">
+
   <div class="grid__item team-member-card">
     <img src="/images/Xiang_Qin.png" alt="Xiang Qin" class="team-member-photo">
     <h4 class="team-member-name">秦祥 (Xiang Qin)</h4>
     <p class="team-member-description">2025级硕士 | 单细胞组学分析</p>
   </div>
 
-<div class="grid__wrapper">
   <div class="grid__item team-member-card">
-    <img src="/images/Jie Ou.png" alt="Jie Ou" class="team-member-photo">
+    <img src="/images/Jie_Ou.png" alt="Jie Ou" class="team-member-photo">
     <h4 class="team-member-name">欧洁 (Jie Ou)</h4>
     <p class="team-member-description">2026硕士 | 人工智能与药物发现</p>
   </div>
 
-<div class="grid__wrapper">
   <div class="grid__item team-member-card">
     <img src="/images/Jie_Lei.png" alt="Jie_Lei" class="team-member-photo">
     <h4 class="team-member-name">雷洁 (Jie_Lei)</h4>
     <p class="team-member-description">2026硕士 | 人工智能与药物发现</p>
   </div>
-  
-<div class="grid__wrapper">
+
   <div class="grid__item team-member-card">
     <img src="/images/YuHang_Han.png" alt="YuHang_Han" class="team-member-photo">
     <h4 class="team-member-name">韩宇航 (YuHang_Han)</h4>
     <p class="team-member-description">2026硕士 | 人工智能与药物发现</p>
   </div>
+</div>
 
 ## 本科生 (Undergraduate Students)
 ---
