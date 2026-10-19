@@ -15,7 +15,7 @@ classes: team-page
 
 ## Principal Investigator
 ---
-*   **李映红 (Yinghong Li)**, 博士，副教授，硕士生导师，重庆邮电大学生物信息学院生物信息学系副主任，重庆市生物信息学会常务理事。
+*   **李映红 (Yinghong Li)**<b>,博士，副教授，硕士生导师，重庆邮电大学生物信息学院生物信息学系副主任，重庆市生物信息学会常务理事。</b>
 
 <br/>
 
@@ -27,21 +27,21 @@ classes: team-page
   <div class="grid__item team-member-card">
     <img src="/images/Yudong_Yan.png" alt="Yudong Yan" class="team-member-photo">
     <h4 class="team-member-name">颜钰东 (Yudong Yan)</h4>
-    <p class="team-member-description">2024级硕士 | 人工智能与药物发现</p>
+    <p class="team-member-description"><b>2024级硕士 | 人工智能与药物发现</p></b>
     <p class="team-member-description" style="margin-bottom:auto"><a href="https://vccv.cc">项目主页</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275">发表论文</a></p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Zupeng_Pan.png" alt="Zupeng Pan" class="team-member-photo">
     <h4 class="team-member-name">潘祖鹏 (Zupeng Pan)</h4>
-    <p class="team-member-description">2024级硕士 | 异构网络与药物重定位</p>
+    <p class="team-member-description"><b>2024级硕士 | 异构网络与药物重定位</p></b>
     <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Fan_Yang.png" alt="Fan Yang" class="team-member-photo">
     <h4 class="team-member-name">杨帆 (Fan Yang)</h4>
-    <p class="team-member-description">2024级硕士 | 人工智能与知识图谱</p>
+    <p class="team-member-description"><b>2024级硕士 | 人工智能与知识图谱</p></b>
     <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto">发表论文</a><br>
     <strong>获奖情况：</strong>
     国家奖学金
@@ -50,37 +50,37 @@ classes: team-page
   <div class="grid__item team-member-card">
     <img src="/images/Xuanhao_Huang.png" alt="Xuanhao Huang" class="team-member-photo">
     <h4 class="team-member-name">黄轩浩 (Xuanhao Huang)</h4>
-    <p class="team-member-description">2024级硕士 | 单细胞组学分析</p>
+    <p class="team-member-description"><b>2024级硕士 | 单细胞组学分析</p></b>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Hongyin_Wang.png" alt="Hongyin Wang" class="team-member-photo">
     <h4 class="team-member-name">王鸿印 (Hongyin Wang)</h4>
-    <p class="team-member-description">2025级硕士 | 人工智能与药物发现</p>
+    <p class="team-member-description"><b>2025级硕士 | 人工智能与药物发现</p></b>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Xiang_Qin.png" alt="Xiang Qin" class="team-member-photo">
     <h4 class="team-member-name">秦祥 (Xiang Qin)</h4>
-    <p class="team-member-description">2025级硕士 | 单细胞组学分析</p>
+    <p class="team-member-description"><b>2025级硕士 | 单细胞组学分析</p></b>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Jie Ou.png" alt="Jie Ou" class="team-member-photo">
     <h4 class="team-member-name">欧洁 (Jie Ou)</h4>
-    <p class="team-member-description">2026硕士 | 人工智能与药物发现</p>
+    <p class="team-member-description"><b>2026硕士 | 人工智能与药物发现</p></b>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Jie_Lei.png" alt="Jie_Lei" class="team-member-photo">
     <h4 class="team-member-name">雷洁 (Jie_Lei)</h4>
-    <p class="team-member-description">2026硕士 | 人工智能与药物发现</p>
+    <p class="team-member-description"><b>2026硕士 | 人工智能与药物发现</p></b>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/YuHang_Han.png" alt="YuHang_Han" class="team-member-photo">
     <h4 class="team-member-name">韩宇航 (YuHang_Han)</h4>
-    <p class="team-member-description">2026硕士 | 人工智能与药物发现</p>
+    <p class="team-member-description"><b>2026硕士 | 人工智能与药物发现</p></b>
   </div>
 </div>
 
