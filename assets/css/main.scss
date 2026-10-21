@@ -49,8 +49,8 @@
 /* -- 自定义团队网格样式 -- */
 .team-grid {
   display: grid;
-  /* 自动填充，每列最小200px，自动适应屏幕宽度 */
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  /* 自动填充，每列最小240px，自动适应屏幕宽度 */
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 30px; /* 图片之间的间距 */
   margin-top: 2em;
   margin-bottom: 2em;
