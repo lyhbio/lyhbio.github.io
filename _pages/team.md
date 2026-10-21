@@ -91,8 +91,7 @@ classes: team-page
   <div class="grid__item team-member-card">
     <img src="/images/Jilong_Mu.png" alt="Julong Mou" class="team-member-photo">
     <h4 class="team-member-name">牟桔隆 (Julong Mou)</h4>
-   <a href="">发表论文</a>
-    <p class="team-member-description">药物-靶点亲和力预测</p>
+    <a href="https://link.springer.com/article/10.1007/s11030-025-11394-1">发表论文</a><br>
      <strong>获奖情况：</strong><br>
       1. 美国大学生数学建模竞赛（MCM/ICM）：Honor奖.<br>
       2. 蓝桥杯软件赛（省级）：一等奖.<br>
