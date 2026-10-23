@@ -126,11 +126,6 @@ classes: team-page
   </div>
 
   <div class="grid__item team-member-card">
-    <img src="/images/Boren_Jiang.png" alt="Boren Jiang" class="team-member-photo">
-    <h4 class="team-member-name">姜博仁 (Boren Jiang)</h4>
-  </div>
-
-  <div class="grid__item team-member-card">
     <img src="/images/Yongkang_Li.png" alt="Yongkang Li" class="team-member-photo">
     <h4 class="team-member-name">李永康 (Yongkang Li)</h4>
   </div>
@@ -138,6 +133,9 @@ classes: team-page
   <div class="grid__item team-member-card">
     <img src="/images/Xiaoran_Wu.png" alt="Xiaoran Wu" class="team-member-photo">
     <h4 class="team-member-name">吴笑然 (Xiaoran Wu)</h4>
+    <strong>获奖情况：</strong><br>
+    1.2026年全国大学生计算机系统能力大赛智能计算创新赛三等奖
+    2.AI大模型应用奖
   </div>
 
   <div class="grid__item team-member-card">
