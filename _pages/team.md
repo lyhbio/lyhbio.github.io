@@ -121,6 +121,8 @@ classes: team-page
   <div class="grid__item team-member-card">
     <img src="/images/Jiale_Rao.png" alt="Jiale Rao" class="team-member-photo">
     <h4 class="team-member-name">饶佳乐 (Jiale Rao)</h4>
+    <strong>获奖情况：</strong><br>
+    2025首届重庆市AI大模型创新应用大赛
   </div>
 
   <div class="grid__item team-member-card">
