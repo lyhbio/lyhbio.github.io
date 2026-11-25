@@ -15,7 +15,7 @@ classes: team-page
 
 ## Principal Investigator
 ---
-*   **李映红 (Yinghong Li)**<b>,博士，副教授，硕士生导师，重庆邮电大学生物信息学院生物信息学系副主任，重庆市生物信息学会常务理事。</b>
+*   **李映红 (Yinghong Li)**<b>,博士,副教授,博士生导师,重庆邮电大学生物信息学院生物信息学系副主任,重庆市生物信息学会理事。</b>
 
 <br/>
 
@@ -185,11 +185,6 @@ classes: team-page
   <div class="grid__item team-member-card">
     <img src="/images/ZiHan_Feng.png" alt="ZiHan_Feng" class="team-member-photo">
     <h4 class="team-member-name">冯子涵(ZiHan_Feng)</h4>
-  </div>
-
-  <div class="grid__item team-member-card">
-    <img src="/images/ChengKe_Li.png" alt="ChengKe_Li" class="team-member-photo">
-    <h4 class="team-member-name">李丞可(ChengKe_Li)</h4>
   </div>
 
   <div class="grid__item team-member-card">
