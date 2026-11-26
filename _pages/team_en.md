@@ -21,13 +21,6 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 
 ### Master Students
 
-<div class="grid__wrapper">
-  <div class="grid__item team-member-card">
-    <img src="/images/Yu_Wang.png" alt="Yu Wang" class="team-member-photo">
-    <h4 class="team-member-name">Yu Wang</h4>
-    <p class="team-member-description">Class of 2023 | Biomedical Information Extraction</p>
-  </div>
-
   <div class="grid__item team-member-card">
     <img src="/images/Yudong_Yan.png" alt="Yudong Yan" class="team-member-photo">
     <h4 class="team-member-name">Yudong Yan</h4>
@@ -68,7 +61,24 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
     <p class="team-member-description">Class of 2025 | Single-cell Omics Analysis</p>
   </div>
 </div>
+  <div class="grid__item team-member-card">
+    <img src="/images/Jie Ou.png" alt="Jie Ou" class="team-member-photo">
+    <h4 class="team-member-name">Jie Ou (Jie Ou)</h4>
+    <p class="team-member-description">Class of 2026 | Artificial Intelligence in Drug Discovery</p>
+  </div>
 
+  <div class="grid__item team-member-card">
+    <img src="/images/Jie_Lei.png" alt="Jie_Lei" class="team-member-photo">
+    <h4 class="team-member-name">Jie Lie (Jie_Lei)</h4>
+    <p class="team-member-description">class of 2026 | Artificial Intelligence in Drug Discovery</p>
+  </div>
+
+  <div class="grid__item team-member-card">
+    <img src="/images/YuHang_Han.png" alt="YuHang_Han" class="team-member-photo">
+    <h4 class="team-member-name">YuHang_Han (YuHang_Han)</h4>
+    <p class="team-member-description">class of 2026 | Artificial Intelligence in Drug Discovery</p>
+  </div>
+</div>
 
 ## Undergraduate Students
 ---
@@ -119,8 +129,31 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
     <img src="/images/yangzhongcheng.jpg" alt="Zhongcheng Yang" class="team-member-photo">
     <h4 class="team-member-name">Zhongcheng Yang</h4>
   </div>
-</div>
+ <div class="grid__item team-member-card">
+    <img src="/images/JingRu_Liu.png" alt="JingRu_Liu" class="team-member-photo">
+    <h4 class="team-member-name"> JingRu_Liu(JingRu_Liu)</h4>
+  </div>
 
+  <div class="grid__item team-member-card">
+    <img src="/images/Yin_Zhang.png" alt="Yin_Zhang" class="team-member-photo">
+    <h4 class="team-member-name">Yin_Zhang (Yin_Zhang)</h4>
+  </div>
+
+  <div class="grid__item team-member-card">
+    <img src="/images/Kang_Du.png" alt="Kang_Du" class="team-member-photo">
+    <h4 class="team-member-name">Kang_Du(Kang_Du)</h4>
+  </div>
+
+  <div class="grid__item team-member-card">
+    <img src="/images/ZiHan_Feng.png" alt="ZiHan_Feng" class="team-member-photo">
+    <h4 class="team-member-name">ZiHan_Feng(ZiHan_Feng)</h4>
+  </div>
+
+  <div class="grid__item team-member-card">
+    <img src="/images/Yin_Jiao.png" alt="Yin_Jiao" class="team-member-photo">
+    <h4 class="team-member-name">Yin_Jiao(Yin_Jiao)</h4>
+  </div>
+</div>
 ## Alumni (Outstanding Graduates)
 ---
 
