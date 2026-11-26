@@ -23,21 +23,21 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 <div class="grid__wrapper">
   <div class="grid__item team-member-card">
     <img src="/images/Yudong_Yan.png" alt="Yudong Yan" class="team-member-photo">
-    <h4 class="team-member-name"> Yudong Yan (Yudong Yan)</h4>
+    <h4 class="team-member-name"> Yudong Yan</h4>
     <p class="team-member-description">class of 2024 | Artificial intelligence and drug discovery </p>
     <p class="team-member-description" style="margin-bottom:auto"><a href="https://vccv.cc">Project Homepage </a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275"> Published Papers </a></p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Zupeng_Pan.png" alt="Zupeng Pan" class="team-member-photo">
-    <h4 class="team-member-name"> Zupeng Pan (Zupeng Pan)</h4>
+    <h4 class="team-member-name"> Zupeng Pan </h4>
     <p class="team-member-description">class of 2024 | Heterogeneous Networks and Drug Repurposing </p>
     <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto"> Published Papers </a>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Fan_Yang.png" alt="Fan Yang" class="team-member-photo">
-    <h4 class="team-member-name"> Fan Yang (Fan Yang)</h4>
+    <h4 class="team-member-name"> Fan Yang </h4>
     <p class="team-member-description">class of 2024 | Artificial Intelligence and Knowledge Graphs </p>
     <a href="https://lab.lyhbio.com/publication/2025-09-30-varidt-4-0" style="margin-bottom:auto"> Published Papers </a><br>
     <strong> Awards and Honors:</strong>
@@ -46,37 +46,37 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 
   <div class="grid__item team-member-card">
     <img src="/images/Xuanhao_Huang.png" alt="Xuanhao Huang" class="team-member-photo">
-    <h4 class="team-member-name"> Xuanhao Huang (Xuanhao Huang)</h4>
+    <h4 class="team-member-name"> Xuanhao Huang</h4>
     <p class="team-member-description">class of 2024 | Single-Cell Omics Analysis </p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Hongyin_Wang.png" alt="Hongyin Wang" class="team-member-photo">
-    <h4 class="team-member-name"> Hongyin Wang (Hongyin Wang)</h4>
+    <h4 class="team-member-name"> Hongyin Wang</h4>
     <p class="team-member-description">class of 2025 | Artificial Intelligence and Drug Discovery </p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Xiang_Qin.png" alt="Xiang Qin" class="team-member-photo">
-    <h4 class="team-member-name"> Xiang Qin (Xiang Qin)</h4>
+    <h4 class="team-member-name"> Xiang Qin </h4>
     <p class="team-member-description">class of 2025 | Single-Cell Omics Analysis</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Jie Ou.png" alt="Jie Ou" class="team-member-photo">
-    <h4 class="team-member-name"> Jie Ou (Jie Ou)</h4>
+    <h4 class="team-member-name"> Jie Ou </h4>
     <p class="team-member-description"> class of 2026 | Artificial Intelligence and Drug Discovery</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Jie_Lei.png" alt="Jie_Lei" class="team-member-photo">
-    <h4 class="team-member-name"> Jie_Lei (Jie_Lei)</h4>
+    <h4 class="team-member-name"> Jie_Lei </h4>
     <p class="team-member-description"> class of 2026 | Artificial Intelligence and Drug Discovery</p>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/YuHang_Han.png" alt="YuHang_Han" class="team-member-photo">
-    <h4 class="team-member-name"> YuHang_Han (YuHang_Han)</h4>
+    <h4 class="team-member-name"> YuHang_Han </h4>
     <p class="team-member-description">class of 2026 | Artificial Intelligence and Drug Discovery</p>
   </div>
 </div>
@@ -87,7 +87,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 <div class="grid__wrapper">
   <div class="grid__item team-member-card">
     <img src="/images/Jilong_Mu.png" alt="Julong Mou" class="team-member-photo">
-    <h4 class="team-member-name"> Julong Mou (Julong Mou)</h4>
+    <h4 class="team-member-name"> Julong Mou </h4>
     <a href="https://link.springer.com/article/10.1007/s11030-025-11394-1"> Published Papers </a><br>
      <strong> Awards and Honors:</strong><br>
       1. Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (MCM/ICM, USA): Honorable Mention.<br>
@@ -100,7 +100,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 
   <div class="grid__item team-member-card">
     <img src="/images/Wenjun_Wu.png" alt="Wenjun Wu" class="team-member-photo">
-    <h4 class="team-member-name"> Wenjun Wu (Wenjun Wu)</h4>
+    <h4 class="team-member-name"> Wenjun Wu </h4>
     <div class="team-member-facts">
       <strong> Awards and Honors:</strong><br>
       1. MathorCup 2026: National Second Prize. <br>
@@ -112,24 +112,24 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 
   <div class="grid__item team-member-card">
     <img src="/images/Guoyao_Wang.png" alt="Guoyao Wang" class="team-member-photo">
-    <h4 class="team-member-name"> Guoyao Wang (Guoyao Wang)</h4>
+    <h4 class="team-member-name"> Guoyao Wang </h4>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Jiale_Rao.png" alt="Jiale Rao" class="team-member-photo">
-    <h4 class="team-member-name"> Jiale Rao (Jiale Rao)</h4>
+    <h4 class="team-member-name"> Jiale Rao </h4>
     <strong> Awards and Honors:</strong><br>
     2025 Inaugural Chongqing AI Large Model Innovation and Application Competition
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Yongkang_Li.png" alt="Yongkang Li" class="team-member-photo">
-    <h4 class="team-member-name"> Yongkang Li (Yongkang Li)</h4>
+    <h4 class="team-member-name"> Yongkang Li</h4>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Xiaoran_Wu.png" alt="Xiaoran Wu" class="team-member-photo">
-    <h4 class="team-member-name"> Xiaoran Wu (Xiaoran Wu)</h4>
+    <h4 class="team-member-name"> Xiaoran Wu </h4>
     <strong> Awards and Honors:</strong><br>
 1. 2026 National College Student Computer Systems Capability Competition — Intelligent Computing Innovation Contest: Third Prize
 2.	2. AI Large Model Application Award
@@ -137,7 +137,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 
   <div class="grid__item team-member-card">
     <img src="/images/Sheng_Chen.png" alt="Sheng Chen" class="team-member-photo">
-    <h4 class="team-member-name"> Sheng Chen (Sheng Chen)</h4>
+    <h4 class="team-member-name"> Sheng Chen </h4>
     <strong> Awards and Honors:</strong><br>
     1. 11th National College Student Biomedical Engineering Innovation Design Competition — National Third Prize. <br>
     2. National College Student Biomedical Engineering Innovation Science Communication Short Video Competition — First Prize.<br>
@@ -149,44 +149,44 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 
   <div class="grid__item team-member-card">
     <img src="/images/Chenghong_Huan.png" alt="Chenghong Huan" class="team-member-photo">
-    <h4 class="team-member-name"> Chenghong Huan (Chenghong Huan)</h4>
+    <h4 class="team-member-name"> Chenghong Huan </h4>
     <strong> Awards and Honors:</strong><br>
     National Scholarship
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Jiandong_Chen.png" alt="Jiandong Chen" class="team-member-photo">
-    <h4 class="team-member-name"> Jiandong Chen (Jiandong Chen)</h4>
+    <h4 class="team-member-name"> Jiandong Chen </h4>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/yangzhongcheng.jpg" alt="Zhongcheng Yang" class="team-member-photo">
-    <h4 class="team-member-name"> Zhongcheng Yang (Zhongcheng Yang)</h4>
+    <h4 class="team-member-name"> Zhongcheng Yang </h4>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/JingRu_Liu.png" alt="JingRu_Liu" class="team-member-photo">
-    <h4 class="team-member-name"> JingRu_Liu (JingRu_Liu)</h4>
+    <h4 class="team-member-name"> JingRu_Liu </h4>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Yin_Zhang.png" alt="Yin_Zhang" class="team-member-photo">
-    <h4 class="team-member-name"> Yin_Zhang (Yin_Zhang)</h4>
+    <h4 class="team-member-name"> Yin_Zhang </h4>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Kang_Du.png" alt="Kang_Du" class="team-member-photo">
-    <h4 class="team-member-name"> Kang_Du (Kang_Du)</h4>
+    <h4 class="team-member-name"> Kang_Du </h4>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/ZiHan_Feng.png" alt="ZiHan_Feng" class="team-member-photo">
-    <h4 class="team-member-name"> ZiHan_Feng (ZiHan_Feng)</h4>
+    <h4 class="team-member-name"> ZiHan_Feng </h4>
   </div>
 
   <div class="grid__item team-member-card">
     <img src="/images/Yin_Jiao.png" alt="Yin_Jiao" class="team-member-photo">
-    <h4 class="team-member-name"> Yin_Jiao (Yin_Jiao)</h4>
+    <h4 class="team-member-name"> Yin_Jiao </h4>
   </div>
 </div>
   
@@ -198,7 +198,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
   <!-- Zhuohao Tong -->
   <div class="grid__item team-member-card">
     <img src="/images/Zhuohao_Tong.png" alt="Zhuohao Tong" class="team-member-photo">
-    <h4 class="team-member-name"> Zhuohao Tong (Zhuohao Tong)</h4>
+    <h4 class="team-member-name"> Zhuohao Tong </h4>
     <p class="team-member-description" style="font-weight: bold;"> Career Destination: Army Medical University (Employed)</p>
     <div class="team-member-description" style="font-size: 0.85em; text-align: left; margin-top: 10px;">
       <strong> Selected Achievements:</strong><br>
@@ -210,7 +210,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
   <!-- Yinqi Yang -->
   <div class="grid__item team-member-card">
     <img src="/images/Yinqi_Yang.png" alt="Yinqi Yang" class="team-member-photo">
-    <h4 class="team-member-name"> Yinqi Yang (Yinqi Yang)</h4>
+    <h4 class="team-member-name"> Yinqi Yang </h4>
     <p class="team-member-description" style="font-weight: bold;"> Career Destination: Gui’an New Area Digital Technology Co., Ltd.<br>( Artificial Intelligence Engineer)</p>
     <div class="team-member-description" style="font-size: 0.85em; text-align: left; margin-top: 10px;">
       <strong> Selected Achievements:</strong><br>
