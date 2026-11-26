@@ -12,7 +12,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
 
 ## Principal Investigator
 ---
-*   **Yinghong Li**,  Ph.D., Associate Professor, Master's Supervisor, Deputy Director of the Department of Bioinformatics at the School of Bioinformatics, Chongqing University of Posts and Telecommunications, and Executive Director of the Chongqing Society for Bioinformatics.
+*   **Yinghong Li**,PhD, associate professor, doctoral supervisor, deputy director of the Department of Bioinformatics at the School of Bioinformatics, Chongqing University of Posts and Telecommunications, and a board member of the Chongqing Bioinformatics Society.
 
 <br/>
 
@@ -26,7 +26,6 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
     <h4 class="team-member-name">Yudong Yan</h4>
     <p class="team-member-description" style="margin-bottom:auto"><a href="https://vccv.cc">Project Homepage</a> | <a href="https://doi.org/10.1016/j.jpha.2025.101275" >Publication</a></p>
     <p class="team-member-description">Class of 2024 | AI for Drug Discovery</p>
-
   </div>
 
   <div class="grid__item team-member-card">
@@ -60,7 +59,7 @@ The photo file needs to be uploaded to the /images/ folder in your website repos
     <h4 class="team-member-name">Xiang Qin</h4>
     <p class="team-member-description">Class of 2025 | Single-cell Omics Analysis</p>
   </div>
-</div>
+
   <div class="grid__item team-member-card">
     <img src="/images/Jie Ou.png" alt="Jie Ou" class="team-member-photo">
     <h4 class="team-member-name">Jie Ou (Jie Ou)</h4>
