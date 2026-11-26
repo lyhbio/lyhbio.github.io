@@ -1,16 +1,13 @@
 ---
 layout: archive
 title: "Team"
-permalink: /team/
+permalink: /en/team/
 author_profile: True
-classes: team-page
 ---
 
-{% include base_path %}
-
 <!--
-说明：请将图片路径 /images/your-photo.jpg 替换为成员的真实照片路径。
-照片文件需要先上传到您网站仓库的 /images/ 文件夹下。
+Note: Please replace the image path /images/your-photo.jpg with the actual photo path of the member.
+The photo file needs to be uploaded to the /images/ folder in your website repository first.
 -->
 
 ## Principal Investigator
